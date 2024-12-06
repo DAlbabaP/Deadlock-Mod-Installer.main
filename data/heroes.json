@@ -1,0 +1,196 @@
+{
+  "heroes": {
+    "abrams": {
+      "id": "abrams",
+      "display_name": {
+        "en": "Abrams",
+        "ru": "Абрамс"
+      },
+      "icon": "heroes/abrams/icon.png"
+    },
+    "bebop": {
+      "id": "bebop",
+      "display_name": {
+        "en": "Bebop",
+        "ru": "Бибоп"
+      },
+      "icon": "heroes/bebop/icon.png"
+    },
+    "dynamo": {
+      "id": "dynamo",
+      "display_name": {
+        "en": "Dynamo",
+        "ru": "Динамо"
+      },
+      "icon": "heroes/dynamo/icon.png"
+    },
+    "grey_talon": {
+      "id": "grey_talon",
+      "display_name": {
+        "en": "Grey Talon",
+        "ru": "Грей Талон"
+      },
+      "icon": "heroes/grey_talon/icon.png"
+    },
+    "haze": {
+      "id": "haze",
+      "display_name": {
+        "en": "Haze",
+        "ru": "Хейз"
+      },
+      "icon": "heroes/haze/icon.png"
+    },
+    "holiday": {
+      "id": "holiday",
+      "display_name": {
+        "en": "Holiday",
+        "ru": "Холидей"
+      },
+      "icon": "heroes/holiday/icon.png"
+    },
+    "infernus": {
+      "id": "infernus",
+      "display_name": {
+        "en": "Infernus",
+        "ru": "Инфернус"
+      },
+      "icon": "heroes/infernus/icon.png"
+    },
+    "ivy": {
+      "id": "ivy",
+      "display_name": {
+        "en": "Ivy",
+        "ru": "Айви"
+      },
+      "icon": "heroes/ivy/icon.png"
+    },
+    "kelvin": {
+      "id": "kelvin",
+      "display_name": {
+        "en": "Kelvin",
+        "ru": "Кельвин"
+      },
+      "icon": "heroes/kelvin/icon.png"
+    },
+    "lady_geist": {
+      "id": "lady_geist",
+      "display_name": {
+        "en": "Lady Geist",
+        "ru": "Леди Гейст"
+      },
+      "icon": "heroes/lady_geist/icon.png"
+    },
+    "lash": {
+      "id": "lash",
+      "display_name": {
+        "en": "Lash",
+        "ru": "Лэш"
+      },
+      "icon": "heroes/lash/icon.png"
+    },
+    "mcginnis": {
+      "id": "mcginnis",
+      "display_name": {
+        "en": "McGinnis",
+        "ru": "МакГиннис"
+      },
+      "icon": "heroes/mcginnis/icon.png"
+    },
+    "mirage": {
+      "id": "mirage",
+      "display_name": {
+        "en": "Mirage",
+        "ru": "Мираж"
+      },
+      "icon": "heroes/mirage/icon.png"
+    },
+    "mo_and_krill": {
+      "id": "mo_and_krill",
+      "display_name": {
+        "en": "Mo & Krill",
+        "ru": "Мо и Крилл"
+      },
+      "icon": "heroes/mo_and_krill/icon.png"
+    },
+    "paradox": {
+      "id": "paradox",
+      "display_name": {
+        "en": "Paradox",
+        "ru": "Парадокс"
+      },
+      "icon": "heroes/paradox/icon.png"
+    },
+    "pocket": {
+      "id": "pocket",
+      "display_name": {
+        "en": "Pocket",
+        "ru": "Покет"
+      },
+      "icon": "heroes/pocket/icon.png"
+    },
+    "seven": {
+      "id": "seven",
+      "display_name": {
+        "en": "Seven",
+        "ru": "Севен"
+      },
+      "icon": "heroes/seven/icon.png"
+    },
+    "shiv": {
+      "id": "shiv",
+      "display_name": {
+        "en": "Shiv",
+        "ru": "Шив"
+      },
+      "icon": "heroes/shiv/icon.png"
+    },
+    "vindicta": {
+      "id": "vindicta",
+      "display_name": {
+        "en": "Vindicta",
+        "ru": "Виндикта"
+      },
+      "icon": "heroes/vindicta/icon.png"
+    },
+    "viper": {
+      "id": "viper",
+      "display_name": {
+        "en": "Viper",
+        "ru": "Вайпер"
+      },
+      "icon": "heroes/viper/icon.png"
+    },
+    "viscous": {
+      "id": "viscous",
+      "display_name": {
+        "en": "Viscous",
+        "ru": "Вискус"
+      },
+      "icon": "heroes/viscous/icon.png"
+    },
+    "warden": {
+      "id": "warden",
+      "display_name": {
+        "en": "Warden",
+        "ru": "Варден"
+      },
+      "icon": "heroes/warden/icon.png"
+    },
+    "wraith": {
+      "id": "wraith",
+      "display_name": {
+        "en": "Wraith",
+        "ru": "Рейф"
+      },
+      "icon": "heroes/wraith/icon.png"
+    },
+    "yamato": {
+      "id": "yamato",
+      "display_name": {
+        "en": "Yamato",
+        "ru": "Ямато"
+      },
+      "icon": "heroes/yamato/icon.png"
+    }
+  }
+}

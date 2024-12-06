@@ -1,0 +1,3704 @@
+{
+  "mods": {
+    "color-blind_friendly": {
+      "id": "color-blind_friendly",
+      "title": "# Color-blind friendly",
+      "category": "game",
+      "hero": null,
+      "type": null,
+      "author": "RedMser",
+      "last_updated": "2024-11-05",
+      "media": {
+        "preview": "color_blind_friendly.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Addon and turned the friendly troopers blue instead of green.",
+        "ru": "Аддон, который окрашивает союзных солдат в синий вместо зелёного"
+      },
+      "file": {
+        "name": "Color-blind friendly.vpk",
+        "size": 36896579,
+        "hash": "a1eb9e67086b2912bcd1b45910836c40f847c2303f87f922dc21b1121d13a724",
+        "drive_id": "1FQXfUgfjQyZ1DYG5xG4dCc7jGZZaEJS-",
+        "local_path": "game\\Color-blind friendly.vpk"
+      },
+      "version": "1.0"
+    },
+    "haze_ball": {
+      "id": "haze_ball",
+      "title": "# Haze Ball",
+      "category": "game",
+      "hero": null,
+      "type": null,
+      "author": "tiredlink_",
+      "last_updated": "2024-11-16",
+      "media": {
+        "preview": "haze_ball.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Makes souls ball into a hazeball",
+        "ru": "Превращает сферу душ в голову Haze"
+      },
+      "file": {
+        "name": "Haze Ball.vpk",
+        "size": 22450926,
+        "hash": "9df9b20c44c0480d2f410600a36290aec0f37e2a4970bf3db54cb3d65e8b5edf",
+        "drive_id": "14_8jAIhsVQpt2ySDlFQSGv1twRu8FhqT",
+        "local_path": "game\\Haze Ball.vpk"
+      },
+      "version": "1.0"
+    },
+    "interloper": {
+      "id": "interloper",
+      "title": "# Interloper",
+      "category": "game",
+      "hero": null,
+      "type": null,
+      "author": "Community",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "interloper.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Turns the shadows on the map into Interloper",
+        "ru": "Превращает тени на карте в Interloper"
+      },
+      "file": {
+        "name": "Interloper.vpk",
+        "size": 37495842,
+        "hash": "81608d1af5fdd9897266bccf8b9471f16a17fcd53274db289979a2a499b6a81c",
+        "drive_id": "104YCmlUvmpS5-6GjENL0Iqp_H4aTuESS",
+        "local_path": "game\\Interloper.vpk"
+      },
+      "version": "1.0"
+    },
+    "neonprime_shop": {
+      "id": "neonprime_shop",
+      "title": "# NeonPrime Shop",
+      "category": "game",
+      "hero": null,
+      "type": null,
+      "author": "taskimaiden",
+      "last_updated": "2024-09-17",
+      "media": {
+        "preview": "neon_prime_shop.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Return the shop model from NeonPrime",
+        "ru": "Возвращает модель магазина из NeonPrime"
+      },
+      "file": {
+        "name": "NeonPrime Shop.vpk",
+        "size": 2238958,
+        "hash": "344308a7f4cfa83c9c2cf59f2217dab82ea370740d1792518bfb4518bfcc23bd",
+        "drive_id": "1MVN3P_gro-8F6ZTViqvt5WrDdZWwXhi0",
+        "local_path": "game\\NeonPrime Shop.vpk"
+      },
+      "version": "1.0"
+    },
+    "orange_lane_restored": {
+      "id": "orange_lane_restored",
+      "title": "# Orange Lane Restored",
+      "category": "game",
+      "hero": null,
+      "type": null,
+      "author": "Titant",
+      "last_updated": "2024-09-13",
+      "media": {
+        "preview": "Orange Lane Restored.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Replaces the green lane with the orange lane from the previous versions of Deadlock",
+        "ru": "Заменяет зелёную линию на оранжевую из предыдущих версий Deadlock"
+      },
+      "file": {
+        "name": "Orange Lane Restored.vpk",
+        "size": 2291664,
+        "hash": "6ad37981c5bf876ef81689f6b960ac02f10b2cb9daee2d04bc2c7e45101f9d1b",
+        "drive_id": "1NFV8rYW8yAmCFgqQqc3XDE6INyk-NkoH",
+        "local_path": "game\\Orange Lane Restored.vpk"
+      },
+      "version": "1.0"
+    },
+    "dota_2_juggernaut_voice_for_abrams": {
+      "id": "dota_2_juggernaut_voice_for_abrams",
+      "title": "# Dota 2 Juggernaut voice for Abrams",
+      "category": "heroes",
+      "hero": "abrams",
+      "type": "hero_mods",
+      "author": "girl_rotting",
+      "last_updated": "2024-09-26",
+      "media": {
+        "preview": "",
+        "video": "Dota 2 Juggernaut voice for Abrams.mp4"
+      },
+      "descriptions": {
+        "en": "Gives Abrams VA of Juggernaut from Dota 2",
+        "ru": "Дает Abrams голос Juggernaut из Dota 2"
+      },
+      "file": {
+        "name": "Dota 2 Juggernaut voice for Abrams.vpk",
+        "size": 926094,
+        "hash": "4cd4dd5e2b697b2ba47a768a1355c2bd9eda969b0ef30c96ed916a40d8724e44",
+        "drive_id": "12vA0v09w8goURSEp9kch-UWqoubn8392",
+        "local_path": "heroes\\abrams\\hero_mods\\Dota 2 Juggernaut voice for Abrams.vpk"
+      },
+      "version": "1.0"
+    },
+    "abrams_bull": {
+      "id": "abrams_bull",
+      "title": "# Abrams Bull",
+      "category": "heroes",
+      "hero": "abrams",
+      "type": "skins",
+      "author": "Ahzealion",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "abrams_bull.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Abrams Bull.vpk",
+        "size": 23819744,
+        "hash": "d33b450b011db1365ad8fb3594954f33b179f9293025fec3740c5b51b3dbaa80",
+        "drive_id": "1qx4ftEVQLiusVHhjsKQhlDpSkOKDkmWd",
+        "local_path": "heroes\\abrams\\skins\\Abrams Bull.vpk"
+      },
+      "version": "1.0"
+    },
+    "abrams_doomguy": {
+      "id": "abrams_doomguy",
+      "title": "# Abrams Doomguy",
+      "category": "heroes",
+      "hero": "abrams",
+      "type": "skins",
+      "author": "thekekman",
+      "last_updated": "2024-11-29",
+      "media": {
+        "preview": "Abrams Doomguy.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Turns Abrams into a Doomguy",
+        "ru": "Превращает Abrams в Doomguy"
+      },
+      "file": {
+        "name": "Abrams Doomguy.vpk",
+        "size": 219984261,
+        "hash": "34c070987fc25c057e9108655a1bd1731109e4824fb5841d44214a9597e88508",
+        "drive_id": "1o8y8LVfZQCJ_MVG1PGgtiVhd9SUlNt0z",
+        "local_path": "heroes\\abrams\\skins\\Abrams Doomguy.vpk"
+      },
+      "version": "1.0"
+    },
+    "abrams_dripbrams": {
+      "id": "abrams_dripbrams",
+      "title": "# Abrams Dripbrams",
+      "category": "heroes",
+      "hero": "abrams",
+      "type": "skins",
+      "author": "Wotsoon",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "Abrams Dripbrams.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Abrams Dripbrams.vpk",
+        "size": 94870970,
+        "hash": "50387583b78e40a285956d3d37d9b77fd9820d878d07fbc345a5194f7bbf63f7",
+        "drive_id": "1NmdrBoqocCpHXBzbtPHt6GHkwLA9BR-S",
+        "local_path": "heroes\\abrams\\skins\\Abrams Dripbrams.vpk"
+      },
+      "version": "1.0"
+    },
+    "abrams_gubami": {
+      "id": "abrams_gubami",
+      "title": "# Abrams GUBAMI",
+      "category": "heroes",
+      "hero": "abrams",
+      "type": "skins",
+      "author": "asboind",
+      "last_updated": "2024-11-08",
+      "media": {
+        "preview": "abrams_gubami.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Abrams GUBAMI.vpk",
+        "size": 8589571,
+        "hash": "3bd56524abf215bf07794270b5344fc63b3cb4b44c69602c5f05e2dec6e0ca20",
+        "drive_id": "1YL_yVY5SGhq5qnsRfIXDbBq0zoQy8jLg",
+        "local_path": "heroes\\abrams\\skins\\Abrams GUBAMI.vpk"
+      },
+      "version": "1.0"
+    },
+    "abrams_hellboy": {
+      "id": "abrams_hellboy",
+      "title": "# Abrams Hellboy",
+      "category": "heroes",
+      "hero": "abrams",
+      "type": "skins",
+      "author": "_modu",
+      "last_updated": "2024-11-02",
+      "media": {
+        "preview": "abrams_hellboy.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Makes Abrams look like Hellboy",
+        "ru": "Делает Abrams похожим на Хеллбоя"
+      },
+      "file": {
+        "name": "Abrams Hellboy.vpk",
+        "size": 56512229,
+        "hash": "abdc9413b103dbc7ba51149de4bb952d78692590885c493fac883fa51a99e5dc",
+        "drive_id": "1OwWim3H1eaZE3mZLZNh0U1o37oW9kF6H",
+        "local_path": "heroes\\abrams\\skins\\Abrams Hellboy.vpk"
+      },
+      "version": "1.0"
+    },
+    "abrams_ivams": {
+      "id": "abrams_ivams",
+      "title": "# Abrams Ivams",
+      "category": "heroes",
+      "hero": "abrams",
+      "type": "skins",
+      "author": "thekekman",
+      "last_updated": "2024-11-28",
+      "media": {
+        "preview": "Abrams Ivams.jpg",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Mix Abrams and Ivy",
+        "ru": ""
+      },
+      "file": {
+        "name": "Abrams Ivams.vpk",
+        "size": 48678305,
+        "hash": "33050074d343dcca2918888fd9c89699cad0a1b0a007eb92c20ade4ab9157e13",
+        "drive_id": "13ejZSnZniPNmpWnKKkSOdReFposf6jut",
+        "local_path": "heroes\\abrams\\skins\\Abrams Ivams.vpk"
+      },
+      "version": "1.0"
+    },
+    "abrams_space_marine": {
+      "id": "abrams_space_marine",
+      "title": "# Abrams Space Marine",
+      "category": "heroes",
+      "hero": "abrams",
+      "type": "skins",
+      "author": "gigawattgigwhat",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "abrams_space_marine.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Abrams Space Marine.vpk",
+        "size": 113720211,
+        "hash": "3b81533d0cf568058583d3b0dac413f794abe51700cb38cfa493617827bfa837",
+        "drive_id": "1q73rxHyrZGT6w4tbLeTJoKySjZyB1ZuE",
+        "local_path": "heroes\\abrams\\skins\\Abrams Space Marine.vpk"
+      },
+      "version": "1.0"
+    },
+    "abrams_zahando": {
+      "id": "abrams_zahando",
+      "title": "# Abrams ZaHando",
+      "category": "heroes",
+      "hero": "abrams",
+      "type": "skins",
+      "author": "magicai",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "abrams_zahando.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Abrams ZaHando.vpk",
+        "size": 63556428,
+        "hash": "0a4c464c2dfc44a52a3076f3ac5d51ec95a0bca8b67f441cbc0ab9468b4e124b",
+        "drive_id": "1bJu3L1VXw2cQh0LpcEfdDleaebLERRLa",
+        "local_path": "heroes\\abrams\\skins\\Abrams ZaHando.vpk"
+      },
+      "version": "1.0"
+    },
+    "demo_abram": {
+      "id": "demo_abram",
+      "title": "# Demo abram",
+      "category": "heroes",
+      "hero": "abrams",
+      "type": "skins",
+      "author": "itjetto",
+      "last_updated": "2024-09-11",
+      "media": {
+        "preview": "",
+        "video": "Demo abram.mp4"
+      },
+      "descriptions": {
+        "en": "Replacing abram charging sound with tf2 demoman charging sound. also replace the wall slam and ground slam sound. ",
+        "ru": "Заменяет звук разгона Abrams на звук разгона Demoman из Team Fortress 2. Также заменяет звуки удара о стену и удар о землю"
+      },
+      "file": {
+        "name": "Demo abram.vpk",
+        "size": 434994,
+        "hash": "dbe5b621de5a06af3060cf5945bf4c2314d4d8bd65aaee00d9f78f49f0e4257f",
+        "drive_id": "1C9qbDU4y-JThDNP1QEloKp854FHQVYQC",
+        "local_path": "heroes\\abrams\\skins\\Demo abram.vpk"
+      },
+      "version": "1.0"
+    },
+    "csgo_bomb_sound": {
+      "id": "csgo_bomb_sound",
+      "title": "# CSGO bomb sound",
+      "category": "heroes",
+      "hero": "bebop",
+      "type": "hero_mods",
+      "author": "sirsyorrz",
+      "last_updated": "2024-09-11",
+      "media": {
+        "preview": "",
+        "video": "CSGO bomb sound.mp4"
+      },
+      "descriptions": {
+        "en": "CSGO bomb being planted and exploding sound effect added to bebop bomb #2",
+        "ru": "Звуковой эффект взрыва бомбы из CSGO добавлен к бомбе Bebop #2"
+      },
+      "file": {
+        "name": "CSGO bomb sound.vpk",
+        "size": 448038,
+        "hash": "16bef5951a7dffdb6016500aac419f50a97299555ed39e497b272c3809aca272",
+        "drive_id": "1V7tU0_M1KkCcbuR__dMdoC7zwBypoK7-",
+        "local_path": "heroes\\bebop\\hero_mods\\CSGO bomb sound.vpk"
+      },
+      "version": "1.0"
+    },
+    "bebop_delivery": {
+      "id": "bebop_delivery",
+      "title": "# Bebop Delivery",
+      "category": "heroes",
+      "hero": "bebop",
+      "type": "skins",
+      "author": "Ahzelion",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "bebop_delivery.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Bebop Delivery.vpk",
+        "size": 17738648,
+        "hash": "909fdfce3d85fae7f551d9923fa15dead741dc251d837022bee77d4a3ebbd0fb",
+        "drive_id": "16hZrsds8jxiK3uST5hR7dRcbs4mp06Fp",
+        "local_path": "heroes\\bebop\\skins\\Bebop Delivery.vpk"
+      },
+      "version": "1.0"
+    },
+    "bebop_neon_prime_skin": {
+      "id": "bebop_neon_prime_skin",
+      "title": "# Bebop Neon Prime skin",
+      "category": "heroes",
+      "hero": "bebop",
+      "type": "skins",
+      "author": "Titant",
+      "last_updated": "2024-09-18",
+      "media": {
+        "preview": "Bebop Neon Prime skin.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Gives Bebop his peak Neon Prime look back",
+        "ru": "Возвращает Bebop его вид из Neon Prime"
+      },
+      "file": {
+        "name": "Bebop Neon Prime skin.vpk",
+        "size": 91292826,
+        "hash": "1c8c8a45f09fb284e8602f0cdc42544d667983a2f1085ec8e5a3ca2cc23129e7",
+        "drive_id": "1ExuRAyUDNr4DYns2m-C7xW9BcO96B2YS",
+        "local_path": "heroes\\bebop\\skins\\Bebop Neon Prime skin.vpk"
+      },
+      "version": "1.0"
+    },
+    "da_purpla": {
+      "id": "da_purpla",
+      "title": "# da purpla",
+      "category": "heroes",
+      "hero": "dynamo",
+      "type": "hero_mods",
+      "author": "taskimaiden",
+      "last_updated": "2024-11-01",
+      "media": {
+        "preview": "",
+        "video": "da purpla.mp4"
+      },
+      "descriptions": {
+        "en": "Quick mod I made that makes dynamo's weapon use pestilence's weapon tracers",
+        "ru": "Быстрый мод, который я сделал, чтобы оружие Dynamo использовало следы оружия Pestilence"
+      },
+      "file": {
+        "name": "da purpla.vpk",
+        "size": 7641,
+        "hash": "9cad10dc3c3d552f780defdd21db30c053c6beb6b0c2fa5c0fddea331fc68f05",
+        "drive_id": "1TSRbABXSNLrqWeMvrUBAUxoe3HyacT-5",
+        "local_path": "heroes\\dynamo\\hero_mods\\da purpla.vpk"
+      },
+      "version": "1.0"
+    },
+    "dynamo_ult_sound": {
+      "id": "dynamo_ult_sound",
+      "title": "# Dinamo ult sound",
+      "category": "heroes",
+      "hero": "dynamo",
+      "type": "hero_mods",
+      "author": "MrTerere",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "",
+        "video": "Dinamo ult sound.mp4"
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Dynamo ult sound.vpk",
+        "size": 4689008,
+        "hash": "1df4fc3f18475eb20002fce10f73ffc39ec48dc7ff0f5475a405636989c8c6f8",
+        "drive_id": "1OvEIQQZjGFS-6pGVv8_W5whd_84Xocqm",
+        "local_path": "heroes\\dynamo\\hero_mods\\Dynamo ult sound.vpk"
+      },
+      "version": "1.0"
+    },
+    "dynamo_dunkamo": {
+      "id": "dynamo_dunkamo",
+      "title": "# Dynamo Dunkamo",
+      "category": "heroes",
+      "hero": "dynamo",
+      "type": "skins",
+      "author": "Damonj17",
+      "last_updated": "2024-11-05",
+      "media": {
+        "preview": "dynamo_dunkamo.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Mod that makes Dynamo's torso a basketball, adds a headband, and adds the Space Jam theme to his Ultimate ability.",
+        "ru": "Мод, который превращает торс Dynamo в баскетбольный мяч, добавляет повязку на голову и тему Space Jam к его ультимативной способности"
+      },
+      "file": {
+        "name": "Dynamo Dunkamo.vpk",
+        "size": 14098336,
+        "hash": "b9e4fcfbc60efd15eae060ddcda6c29f6d901986b0e277346eaa44091ae8baba",
+        "drive_id": "1JtOnlDecxcG534SHhi7Pc2M_ttfIDg_1",
+        "local_path": "heroes\\dynamo\\skins\\Dynamo Dunkamo.vpk"
+      },
+      "version": "1.0"
+    },
+    "hawk_tuah_charged_arrows": {
+      "id": "hawk_tuah_charged_arrows",
+      "title": "# Hawk tuah charged arrows",
+      "category": "heroes",
+      "hero": "grey_talon",
+      "type": "hero_mods",
+      "author": "taskimaiden",
+      "last_updated": "2024-09-11",
+      "media": {
+        "preview": "",
+        "video": "Hawk tuah charged arrows.mp4"
+      },
+      "descriptions": {
+        "en": "absolute cinema",
+        "ru": "Абсолютное кино"
+      },
+      "file": {
+        "name": "Hawk tuah charged arrows.vpk",
+        "size": 71079,
+        "hash": "5c50aa899eb0eec6a676dbf4024ed5f8095e7242b2289774b0030a6570494475",
+        "drive_id": "1lSMPd3UqEn7TVwJ3MJazBFeSTDCAw35T",
+        "local_path": "heroes\\grey_talon\\hero_mods\\Hawk tuah charged arrows.vpk"
+      },
+      "version": "1.0"
+    },
+    "just_an_owl_drone": {
+      "id": "just_an_owl_drone",
+      "title": "# Just an owl drone",
+      "category": "heroes",
+      "hero": "grey_talon",
+      "type": "hero_mods",
+      "author": "Community",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "just_an_owl_drone.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Just an owl drone.vpk",
+        "size": 67257668,
+        "hash": "6660cf4f668651c2e26d59e79887b99a0485499f1fb0f469277161280f3d25c1",
+        "drive_id": "1SNDx-DY3YtpKcZbCV4p3J6yfuXPCPeOQ",
+        "local_path": "heroes\\grey_talon\\hero_mods\\Just an owl drone.vpk"
+      },
+      "version": "1.0"
+    },
+    "that_guided_owl_that_i_hate": {
+      "id": "that_guided_owl_that_i_hate",
+      "title": "# That Guided Owl That I Hate",
+      "category": "heroes",
+      "hero": "grey_talon",
+      "type": "hero_mods",
+      "author": "Laglini",
+      "last_updated": "2024-10-05",
+      "media": {
+        "preview": "",
+        "video": "That Guided Owl That I Hate.mp4"
+      },
+      "descriptions": {
+        "en": "low effort meme mod",
+        "ru": "Простой мем-мод"
+      },
+      "file": {
+        "name": "That Guided Owl That I Hate.vpk",
+        "size": 1040028,
+        "hash": "edd0b38dfd87ee79714531f0da57200479ab4315a8951664d9be4d53a646d268",
+        "drive_id": "1-MeCd-iR08zQUB68jqOnIxgLqceaKWM2",
+        "local_path": "heroes\\grey_talon\\hero_mods\\That Guided Owl That I Hate.vpk"
+      },
+      "version": "1.0"
+    },
+    "svoi_talon": {
+      "id": "svoi_talon",
+      "title": "# Svoi Talon",
+      "category": "heroes",
+      "hero": "grey_talon",
+      "type": "skins",
+      "author": "thekekman",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "svoi_talon.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Svoi Talon.vpk",
+        "size": 135738251,
+        "hash": "e6bc90b078d0d40269c55a247e521b43eedeae96a03ee185814c5c10eac887e3",
+        "drive_id": "1YdSi4-jVlK9by-2CqFuWcIOk3xjMCelw",
+        "local_path": "heroes\\grey_talon\\skins\\Svoi Talon.vpk"
+      },
+      "version": "1.0"
+    },
+    "haze_sounds": {
+      "id": "haze_sounds",
+      "title": "# HAZE sounds",
+      "category": "heroes",
+      "hero": "haze",
+      "type": "hero_mods",
+      "author": "X1kkan",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "",
+        "video": "HAZE sounds.mp4"
+      },
+      "descriptions": {
+        "en": "Funny soundpack for Haze skills",
+        "ru": "Забавный набор звуков для способностей Haze"
+      },
+      "file": {
+        "name": "HAZE sounds.vpk",
+        "size": 3292274,
+        "hash": "785d8f85b13da82be35a54f4b665f58301d98ae506d2b50c3eaf51a7a3a53262",
+        "drive_id": "1a-Qo9kRHDadMdsf8rjNvOrDcYLvh5s6R",
+        "local_path": "heroes\\haze\\hero_mods\\HAZE sounds.vpk"
+      },
+      "version": "1.0"
+    },
+    "haze_s_dagger": {
+      "id": "haze_s_dagger",
+      "title": "Haze_s dagger",
+      "category": "heroes",
+      "hero": "haze",
+      "type": "hero_mods",
+      "author": "Unknown",
+      "last_updated": "",
+      "media": {
+        "preview": null,
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Haze_s dagger.vpk",
+        "size": 884689,
+        "hash": "5850a4812199bbcb92a993c57e0d92220fb725f2731077c7a2a7ae310b08726f",
+        "drive_id": "1ygvHq0nWBCDQaCBSHSX_KpYejo1DLiQ0",
+        "local_path": "heroes\\haze\\hero_mods\\Haze_s dagger.vpk"
+      },
+      "version": "1.0"
+    },
+    "haze_black+white": {
+      "id": "haze_black+white",
+      "title": "# Haze black+white",
+      "category": "heroes",
+      "hero": "haze",
+      "type": "skins",
+      "author": "TheEloThief",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "haze_black_white.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Haze black+white.vpk",
+        "size": 13559647,
+        "hash": "21462baafbc38a0dd2bd98f0d4baaed0e0330c22897db17ab751d75ba7100a15",
+        "drive_id": "1x3boO5pzUErULM_pMbUmth2QCDO8MPs0",
+        "local_path": "heroes\\haze\\skins\\Haze black+white.vpk"
+      },
+      "version": "1.0"
+    },
+    "haze_checkmate": {
+      "id": "haze_checkmate",
+      "title": "# Haze Checkmate",
+      "category": "heroes",
+      "hero": "haze",
+      "type": "skins",
+      "author": "X1kkan",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "haze_checkmate.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Haze Checkmate.vpk",
+        "size": 64917309,
+        "hash": "a0843dffea3101a78d2ae38b42665c4d1d661f15587ee46d1681d45dede2a488",
+        "drive_id": "1PRKXrNHl_UcGHauoxSLk1-TKJkB4-1l4",
+        "local_path": "heroes\\haze\\skins\\Haze Checkmate.vpk"
+      },
+      "version": "1.0"
+    },
+    "haze_gold": {
+      "id": "haze_gold",
+      "title": "# Haze gold",
+      "category": "heroes",
+      "hero": "haze",
+      "type": "skins",
+      "author": "Libera",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "haze_gold.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Haze gold.vpk",
+        "size": 3416465,
+        "hash": "aec20cd02aa93e4294a9811c9137823028105f1ff85a8817755304f9bf7075ef",
+        "drive_id": "1Zf5D0dsR5Z7WeRS1-gd6KjE9ROPf8tgx",
+        "local_path": "heroes\\haze\\skins\\Haze gold.vpk"
+      },
+      "version": "1.0"
+    },
+    "haze_ivyaze": {
+      "id": "haze_ivyaze",
+      "title": "# Haze Ivyaze",
+      "category": "heroes",
+      "hero": "haze",
+      "type": "skins",
+      "author": "thekekman",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "Haze Ivyaze.jpg",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Mix Haze with Ivy",
+        "ru": "Смешивает Haze с Ivy"
+      },
+      "file": {
+        "name": "Haze Ivyaze.vpk",
+        "size": 11402451,
+        "hash": "3ae551ed810430daccd5fb4cabcebcafddb77877d340fc692353f43507708a80",
+        "drive_id": "155xRmpizACtCb96z8JOE34kLlKMwHXMj",
+        "local_path": "heroes\\haze\\skins\\Haze Ivyaze.vpk"
+      },
+      "version": "1.0"
+    },
+    "haze_low_poly_v1": {
+      "id": "haze_low_poly_v1",
+      "title": "# Haze Low Poly v1",
+      "category": "heroes",
+      "hero": "haze",
+      "type": "skins",
+      "author": "dirtkiller23",
+      "last_updated": "2024-09-18",
+      "media": {
+        "preview": "Haze Low Poly v1.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Replaces haze on her's low poly model from NeonPrime",
+        "ru": "Заменяет Haze на её низкополигональную модель из NeonPrime"
+      },
+      "file": {
+        "name": "Haze Low Poly v1.vpk",
+        "size": 6799524,
+        "hash": "07854f6e887b05feb7d05cd4b7904cc5d03383d4aad9fc4e6d710a51772c8241",
+        "drive_id": "1sHYzNxDbgwnIq8RU2a1WqtBqOsjj5qkL",
+        "local_path": "heroes\\haze\\skins\\Haze Low Poly v1.vpk"
+      },
+      "version": "1.0"
+    },
+    "haze_red": {
+      "id": "haze_red",
+      "title": "# Haze Red",
+      "category": "heroes",
+      "hero": "haze",
+      "type": "skins",
+      "author": "Libera",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "haze_red.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Haze Red.vpk",
+        "size": 3150073,
+        "hash": "7a67f50e4bb7d2724e51596bf5b086bbe2917cf78d09d8e0472c3413e5d19e51",
+        "drive_id": "1Ja5uLETMRK9ij5Qcuf9gqWl3Tqb6JUmx",
+        "local_path": "heroes\\haze\\skins\\Haze Red.vpk"
+      },
+      "version": "1.0"
+    },
+    "haze_silver": {
+      "id": "haze_silver",
+      "title": "# Haze silver",
+      "category": "heroes",
+      "hero": "haze",
+      "type": "skins",
+      "author": "Libera",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "haze_silver.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Haze silver.vpk",
+        "size": 3150073,
+        "hash": "542ca3952655c9b34afb49b955b016cdc275eccb9bdb2594f6beb8e15a1a71d5",
+        "drive_id": "1A4LVyy7DTYYFt4S79bpCLkC1YXeAS7qZ",
+        "local_path": "heroes\\haze\\skins\\Haze silver.vpk"
+      },
+      "version": "1.0"
+    },
+    "haze_voidwalker": {
+      "id": "haze_voidwalker",
+      "title": "# Haze VOIDWALKER",
+      "category": "heroes",
+      "hero": "haze",
+      "type": "skins",
+      "author": "Hoxdolum",
+      "last_updated": "2024-11-26",
+      "media": {
+        "preview": "haze_voidwalker.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Turns Haze into a Wraith Voidwalker skin from Apex Legends",
+        "ru": "Превращает Haze в образ Wraith Voidwalker из Apex Legends"
+      },
+      "file": {
+        "name": "Haze VOIDWALKER.vpk",
+        "size": 63379098,
+        "hash": "f17a52a336fa72c4b472b59f3ce115fa6940f0e924dfd82c96cf234804a72455",
+        "drive_id": "14cap9t03qtCvS-qrvMNQjJ3Avea6iL92",
+        "local_path": "heroes\\haze\\skins\\Haze VOIDWALKER.vpk"
+      },
+      "version": "1.0"
+    },
+    "holiday_v": {
+      "id": "holiday_v",
+      "title": "Holiday V",
+      "category": "heroes",
+      "hero": "holiday",
+      "type": "skins",
+      "author": "Unknown",
+      "last_updated": "",
+      "media": {
+        "preview": null,
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Holiday V.vpk",
+        "size": 19937352,
+        "hash": "358f7607d45a8b78018ece9a06de915392956d8ff48a67d4ba4186ef99ee6148",
+        "drive_id": "1GX7shpftNv7h-0ZSH6y48UF3pWX7Q0Im",
+        "local_path": "heroes\\holiday\\skins\\Holiday V.vpk"
+      },
+      "version": "1.0"
+    },
+    "ocelot_natural": {
+      "id": "ocelot_natural",
+      "title": "Ocelot natural",
+      "category": "heroes",
+      "hero": "holiday",
+      "type": "skins",
+      "author": "Unknown",
+      "last_updated": "",
+      "media": {
+        "preview": null,
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Ocelot natural.vpk",
+        "size": 13181103,
+        "hash": "0595c50776f5a857700a6bed5cd593377a92adfed6c0b77c46820e73a55d0abf",
+        "drive_id": "17oLQyatdqDL_gBxdF7gCgEi-9d6IwePV",
+        "local_path": "heroes\\holiday\\skins\\Ocelot natural.vpk"
+      },
+      "version": "1.0"
+    },
+    "ocelot_visibility": {
+      "id": "ocelot_visibility",
+      "title": "Ocelot visibility",
+      "category": "heroes",
+      "hero": "holiday",
+      "type": "skins",
+      "author": "Unknown",
+      "last_updated": "",
+      "media": {
+        "preview": null,
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Ocelot visibility.vpk",
+        "size": 13180239,
+        "hash": "983d55a037640241eafc7aac047f251a61a11df3320f91e38d2c63eb6e102ede",
+        "drive_id": "1qJCJGMDqa-aKt7yvZ93bYNVKEw7DMw_y",
+        "local_path": "heroes\\holiday\\skins\\Ocelot visibility.vpk"
+      },
+      "version": "1.0"
+    },
+    "infernus_black+white": {
+      "id": "infernus_black+white",
+      "title": "# Infernus Black+White",
+      "category": "heroes",
+      "hero": "infernus",
+      "type": "skins",
+      "author": "TheEloThief",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "infernus_black_white.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Infernus Black+White.vpk",
+        "size": 6299100,
+        "hash": "2f48f3058b988fb057d51a1c5f22062166c331db1f48d549a679e29b1f59a307",
+        "drive_id": "1rivb6TasMy6a_z3qTA9x-uCvCUz0jj1G",
+        "local_path": "heroes\\infernus\\skins\\Infernus Black+White.vpk"
+      },
+      "version": "1.0"
+    },
+    "infernus_scoutfernus": {
+      "id": "infernus_scoutfernus",
+      "title": "# Infernus Scoutfernus",
+      "category": "heroes",
+      "hero": "infernus",
+      "type": "skins",
+      "author": "tiredlink_",
+      "last_updated": "2024-11-23",
+      "media": {
+        "preview": "infernus_scoutfernus.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Makes Infenus to be Scout from Team Fortress 2",
+        "ru": "Превращает Infenus в Scout из Team Fortress 2"
+      },
+      "file": {
+        "name": "Infernus Scoutfernus.vpk",
+        "size": 58726681,
+        "hash": "0d3e3a023f6a5d6484fa55b1a0b08d491cd046510fe9d77ab70ef49ef0de06ad",
+        "drive_id": "1sVtC9CLzADzZGUFClzaN45ltLiL3T4tu",
+        "local_path": "heroes\\infernus\\skins\\Infernus Scoutfernus.vpk"
+      },
+      "version": "1.0"
+    },
+    "ivy_gardener": {
+      "id": "ivy_gardener",
+      "title": "# Ivy Gardener",
+      "category": "heroes",
+      "hero": "ivy",
+      "type": "hero_mods",
+      "author": "Ahzelion",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "ivy_gardener.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Ivy Gardener.vpk",
+        "size": 20929768,
+        "hash": "b175e10ac31a6cd749c62ea01c7e4fe5898b289f8acd8718a2d47157f70c3c5c",
+        "drive_id": "1W4JkRtOJVDVAzYjOWog63vnqgXeHgGQs",
+        "local_path": "heroes\\ivy\\hero_mods\\Ivy Gardener.vpk"
+      },
+      "version": "1.0"
+    },
+    "ivy_kali": {
+      "id": "ivy_kali",
+      "title": "# Ivy Kali",
+      "category": "heroes",
+      "hero": "ivy",
+      "type": "hero_mods",
+      "author": "lamarrite",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "ivy_kali.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Ivy Kali.vpk",
+        "size": 64172060,
+        "hash": "c2c50615a087485f8a24cdfe83dc370d6e9bdfe91e7a8a3f3238f61f35010a24",
+        "drive_id": "1ibnUh4LIoIUdHOFPEytxSrgh3Ed059SH",
+        "local_path": "heroes\\ivy\\hero_mods\\Ivy Kali.vpk"
+      },
+      "version": "1.0"
+    },
+    "ivy_low_poly": {
+      "id": "ivy_low_poly",
+      "title": "# Ivy Low Poly",
+      "category": "heroes",
+      "hero": "ivy",
+      "type": "hero_mods",
+      "author": "gigawattgigwhat",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "ivy_low_poly.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Ivy Low Poly.vpk",
+        "size": 11928448,
+        "hash": "910c6e0a2e410b9a031611a41c062da058f84a9a54f404c4ceeb52acc5ae77aa",
+        "drive_id": "10o3l_r9UYsv6LbRbSMrIfT3uJnfM5ibN",
+        "local_path": "heroes\\ivy\\hero_mods\\Ivy Low Poly.vpk"
+      },
+      "version": "1.0"
+    },
+    "ivy's_ride_of_the_valkyries": {
+      "id": "ivy's_ride_of_the_valkyries",
+      "title": "# Ivy's Ride of the Valkyries",
+      "category": "heroes",
+      "hero": "ivy",
+      "type": "skins",
+      "author": "AshnakAGQ",
+      "last_updated": "2024-10-11",
+      "media": {
+        "preview": "",
+        "video": "Ivy's Ride of the Valkyries.mp4"
+      },
+      "descriptions": {
+        "en": "Change the sound during Ivy's Ult to Richard Wagner's Ride of the Valkyries",
+        "ru": "Изменяет звук во время ультимативной способности Ivy на «Полёт Валькирий» Рихарда Вагнера"
+      },
+      "file": {
+        "name": "Ivy's Ride of the Valkyries.vpk",
+        "size": 12078234,
+        "hash": "c89160562c4662da4514b819bc060bad7308805dae3307bd968151145562a419",
+        "drive_id": "15Zq9lrOkdlRfyVyrB4-gExwvLqEvQxiZ",
+        "local_path": "heroes\\ivy\\skins\\Ivy's Ride of the Valkyries.vpk"
+      },
+      "version": "1.0"
+    },
+    "just_a_reskin": {
+      "id": "just_a_reskin",
+      "title": "Just a reskin",
+      "category": "heroes",
+      "hero": "ivy",
+      "type": "skins",
+      "author": "Unknown",
+      "last_updated": "",
+      "media": {
+        "preview": null,
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Just a reskin.vpk",
+        "size": 92660533,
+        "hash": "b225e567b26527f8be20919e5d9e12a61581ee630d9fba5b3237703f54e9f26e",
+        "drive_id": "1fuyo70Cx9e-j0fjyGJQzmmsq04WRQYnY",
+        "local_path": "heroes\\ivy\\skins\\Just a reskin.vpk"
+      },
+      "version": "1.0"
+    },
+    "reskin_and_also_changes_watcher_s_covenant_to_spawn_a_small_radio_and_play_smooth_electroswing_beats": {
+      "id": "reskin_and_also_changes_watcher_s_covenant_to_spawn_a_small_radio_and_play_smooth_electroswing_beats",
+      "title": "Reskin and also changes Watcher_s Covenant to spawn a small radio and play smooth electroswing beats",
+      "category": "heroes",
+      "hero": "ivy",
+      "type": "skins",
+      "author": "Unknown",
+      "last_updated": "",
+      "media": {
+        "preview": null,
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Reskin and also changes Watcher_s Covenant to spawn a small radio and play smooth electroswing beats.vpk",
+        "size": 137005052,
+        "hash": "eba0de39dd4450f9432fdf64f7cf95c02a3015269431524feae3f00347bcbd38",
+        "drive_id": "1R2yTdVlAsLT8mVArUa47YWYHmf3zGd0r",
+        "local_path": "heroes\\ivy\\skins\\Reskin and also changes Watcher_s Covenant to spawn a small radio and play smooth electroswing beats.vpk"
+      },
+      "version": "1.0"
+    },
+    "kelvin_amazon_employer": {
+      "id": "kelvin_amazon_employer",
+      "title": "# Kelvin amazon employer",
+      "category": "heroes",
+      "hero": "kelvin",
+      "type": "skins",
+      "author": "Ahzelion",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "kelvin_amazon_employer.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Kelvin amazon employer.vpk",
+        "size": 23967316,
+        "hash": "a650296bb4d647bd7b72a1d578837d032148e5a491b4781d9726372d8c04f3da",
+        "drive_id": "1tcg-FRI4wgcKVfUNVNGYgfwbX_jr0r1k",
+        "local_path": "heroes\\kelvin\\skins\\Kelvin amazon employer.vpk"
+      },
+      "version": "1.0"
+    },
+    "fairy_bottle": {
+      "id": "fairy_bottle",
+      "title": "Fairy bottle",
+      "category": "heroes",
+      "hero": "lady_geist",
+      "type": "hero_mods",
+      "author": "Unknown",
+      "last_updated": "",
+      "media": {
+        "preview": null,
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Fairy bottle.vpk",
+        "size": 491947,
+        "hash": "07f2d9fe1a4a2dd27f5059b870dbe6a911525c83901f176306d05faea6c539a1",
+        "drive_id": "1KpDGHr1t4EZsjtOOFXPRsUzyO4UGCbWX",
+        "local_path": "heroes\\lady_geist\\hero_mods\\Fairy bottle.vpk"
+      },
+      "version": "1.0"
+    },
+    "lady_geist_date": {
+      "id": "lady_geist_date",
+      "title": "# Lady Geist Date",
+      "category": "heroes",
+      "hero": "lady_geist",
+      "type": "skins",
+      "author": "dogofthelob",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "lady_geist_date.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Lady Geist Date.vpk",
+        "size": 6770879,
+        "hash": "4794d613a75727ffaafaf955c369dbb66da38e63fdd22851611cf6841f202e1b",
+        "drive_id": "17097ZdDi69_3v1XOG9OsOZ7v8ZbTk3Sq",
+        "local_path": "heroes\\lady_geist\\skins\\Lady Geist Date.vpk"
+      },
+      "version": "1.0"
+    },
+    "lady_geist_fairy": {
+      "id": "lady_geist_fairy",
+      "title": "# Lady Geist Fairy",
+      "category": "heroes",
+      "hero": "lady_geist",
+      "type": "skins",
+      "author": "quazlee",
+      "last_updated": "2024-11-22",
+      "media": {
+        "preview": "lady_geist_fairy.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "This mod is a Model Replacement for Lady Geist. It Replaces her with the Great Fairy from The Legend of Zelda: Hyrule Warriors.",
+        "ru": "Этот мод заменяет модель Lady Geist на Великую Фею из The Legend of Zelda: Hyrule Warriors"
+      },
+      "file": {
+        "name": "Lady Geist Fairy.vpk",
+        "size": 21197422,
+        "hash": "91ccc1e80d44d8bbaa969ec41733eb1359ed59dda3d6e67f78b90a806981a011",
+        "drive_id": "1oMCgcn4090CEumNUgc8SlQ6jITOqWY8e",
+        "local_path": "heroes\\lady_geist\\skins\\Lady Geist Fairy.vpk"
+      },
+      "version": "1.0"
+    },
+    "lady_geist_green_geist": {
+      "id": "lady_geist_green_geist",
+      "title": "# Lady Geist Green Geist",
+      "category": "heroes",
+      "hero": "lady_geist",
+      "type": "skins",
+      "author": "minenightmare",
+      "last_updated": "2024-15-11",
+      "media": {
+        "preview": "lady_geist_green_geist.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Green version of that Red Geist",
+        "ru": "Зелёная версия RemeGeist"
+      },
+      "file": {
+        "name": "Lady Geist Green Geist.vpk",
+        "size": 39962231,
+        "hash": "15d05b897a540bf1257b062abab6ba83e47da82148226f8d38cdcfd61c82c241",
+        "drive_id": "19d8CnMYwOyTrG07mp0jLrB8qsjr9HewE",
+        "local_path": "heroes\\lady_geist\\skins\\Lady Geist Green Geist.vpk"
+      },
+      "version": "1.0"
+    },
+    "lady_geist_rainbow": {
+      "id": "lady_geist_rainbow",
+      "title": "# Lady Geist Rainbow",
+      "category": "heroes",
+      "hero": "lady_geist",
+      "type": "skins",
+      "author": "uglycoal",
+      "last_updated": "2024-09-10",
+      "media": {
+        "preview": "lady_geist_rainbow.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Recolors Geist's hair into a rainbow dash",
+        "ru": "Перекрашивает волосы Geist в радужные цвета"
+      },
+      "file": {
+        "name": "Lady Geist Rainbow.vpk",
+        "size": 279985,
+        "hash": "00a1e0a4e986077ed09e1d1282b01072b911a7e1dfd47ae50880c4db24a11d80",
+        "drive_id": "1U67wpdAUMjSwje9ZzLrUJFpGzUqX69rF",
+        "local_path": "heroes\\lady_geist\\skins\\Lady Geist Rainbow.vpk"
+      },
+      "version": "1.0"
+    },
+    "lady_geist_remgeist": {
+      "id": "lady_geist_remgeist",
+      "title": "# Lady Geist Remgeist",
+      "category": "heroes",
+      "hero": "lady_geist",
+      "type": "skins",
+      "author": "minenightmare",
+      "last_updated": "2024-11-13",
+      "media": {
+        "preview": "lady_geist_remgeist.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Lady Geist Remgeist.vpk",
+        "size": 39981601,
+        "hash": "52715cb5158c4532eead3dfec2c535dda57bafa8321b9df696e1d6ff1e28cdc6",
+        "drive_id": "1cDMsobHis7Fo2_FfsXqn290KTojDsrdq",
+        "local_path": "heroes\\lady_geist\\skins\\Lady Geist Remgeist.vpk"
+      },
+      "version": "1.0"
+    },
+    "lady_geist_short": {
+      "id": "lady_geist_short",
+      "title": "# Lady Geist Short",
+      "category": "heroes",
+      "hero": "lady_geist",
+      "type": "skins",
+      "author": "Arsinssmith",
+      "last_updated": "2024-11-14",
+      "media": {
+        "preview": "lady_geist_short.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Lady Gaist but clother a little shorter",
+        "ru": "Lady Geist, но одежда немного короче"
+      },
+      "file": {
+        "name": "Lady Geist Short.vpk",
+        "size": 17827125,
+        "hash": "004e685cf2f5f879755d9a8eebdd8332020b61f7a3811d8505d55fd8c4811589",
+        "drive_id": "1b7iKGmTdKwKu8diolyYxmkb0eBR5UWVA",
+        "local_path": "heroes\\lady_geist\\skins\\Lady Geist Short.vpk"
+      },
+      "version": "1.0"
+    },
+    "i'm_not_gonna_sugarcoat_it": {
+      "id": "i'm_not_gonna_sugarcoat_it",
+      "title": "# I'm not gonna sugarcoat it",
+      "category": "heroes",
+      "hero": "lash",
+      "type": "hero_mods",
+      "author": "sonambulacansada",
+      "last_updated": "2024-11-17",
+      "media": {
+        "preview": "",
+        "video": "I'm not gonna sugarcoat it.mp4"
+      },
+      "descriptions": {
+        "en": "Changes 1 skiil sound",
+        "ru": "Изменяет звук первой способности"
+      },
+      "file": {
+        "name": "I'm not gonna sugarcoat it.vpk",
+        "size": 45164,
+        "hash": "4ad74311f993143638bd562e208ce73c82805cc32b8d45ebf049f70a073668b9",
+        "drive_id": "15dwKP8yspJpjsWLUXNUNIW_uzBUZ88-L",
+        "local_path": "heroes\\lash\\hero_mods\\I'm not gonna sugarcoat it.vpk"
+      },
+      "version": "1.0"
+    },
+    "lash_belash": {
+      "id": "lash_belash",
+      "title": "# Lash Belash",
+      "category": "heroes",
+      "hero": "lash",
+      "type": "skins",
+      "author": "gigawattgigwhat",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "lash_belash.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Lash Belash.vpk",
+        "size": 9251724,
+        "hash": "1a014a04a942c461be7bfed1c283f3c750cdae9bfc1da998e4f5776478d6d541",
+        "drive_id": "1eIKDoO3iSm24QrgJHt1ejFDzDQNtUmMG",
+        "local_path": "heroes\\lash\\skins\\Lash Belash.vpk"
+      },
+      "version": "1.0"
+    },
+    "lash_lashton_hale_no_tshirt": {
+      "id": "lash_lashton_hale_no_tshirt",
+      "title": "# Lash Lashton Hale no Tshirt",
+      "category": "heroes",
+      "hero": "lash",
+      "type": "skins",
+      "author": "ohpahn",
+      "last_updated": "2024-12-01",
+      "media": {
+        "preview": "Lash Lashton Hale no Tshirt.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Mod varioation without tshirt",
+        "ru": "Вариант мода без футболки"
+      },
+      "file": {
+        "name": "Lash Lashton Hale no Tshirt.vpk",
+        "size": 76156766,
+        "hash": "218c9fe8cc68618ff1eb6b82f42128f6a1544286de7dd9b6ad08189d26a93088",
+        "drive_id": "1bn8xPgzwS7aYnrs4Kg0EpKowXhXKyIaW",
+        "local_path": "heroes\\lash\\skins\\Lash Lashton Hale no Tshirt.vpk"
+      },
+      "version": "1.0"
+    },
+    "lash_lashton_hale": {
+      "id": "lash_lashton_hale",
+      "title": "# Lash Lashton Hale",
+      "category": "heroes",
+      "hero": "lash",
+      "type": "skins",
+      "author": "ohpahn",
+      "last_updated": "2024-12-01",
+      "media": {
+        "preview": "Lash Lashton Hale.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Combines Lash and Saxton Hale from Team Fortress 2 ",
+        "ru": "Объединяет Lash и Saxton Hale из Team Fortress 2"
+      },
+      "file": {
+        "name": "Lash Lashton Hale.vpk",
+        "size": 36700904,
+        "hash": "4f090e925155cd1f839782bd47371ae439a5e1c95b0ab8e67c87581aafc40887",
+        "drive_id": "10egyexlJKhRPMS-SuAzu2QwOjdGo3J27",
+        "local_path": "heroes\\lash\\skins\\Lash Lashton Hale.vpk"
+      },
+      "version": "1.0"
+    },
+    "lash_megalodon": {
+      "id": "lash_megalodon",
+      "title": "# Lash Megalodon",
+      "category": "heroes",
+      "hero": "lash",
+      "type": "skins",
+      "author": "klabber",
+      "last_updated": "2024-11-28",
+      "media": {
+        "preview": "Lash Megalodon.jpg",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Turns Lash into a Megaloon skin from Fortnite",
+        "ru": "Превращает Lash в скин Megaloon из Fortnite"
+      },
+      "file": {
+        "name": "Lash Megalodon.vpk",
+        "size": 74536087,
+        "hash": "e5b64e0098182f9f43d4bde59316f98ae2b230abecef917eda8e0adbcdd5d99e",
+        "drive_id": "1r9FjGy9qrSoCogiyZyz0FLyyW7DbBH2T",
+        "local_path": "heroes\\lash\\skins\\Lash Megalodon.vpk"
+      },
+      "version": "1.0"
+    },
+    "lash_yakuza": {
+      "id": "lash_yakuza",
+      "title": "# Lash Yakuza",
+      "category": "heroes",
+      "hero": "lash",
+      "type": "skins",
+      "author": "akuma2706",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "lash_yakuza.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Just a reskin to make Lash look like a Yakuza",
+        "ru": ""
+      },
+      "file": {
+        "name": "Lash Yakuza.vpk",
+        "size": 109071981,
+        "hash": "d3e45b01119a791cf83e97347bf51353e04222e8b73a5d151cace12f6d1abe39",
+        "drive_id": "1xHRcg43rQuWJziAqYyFiniR8thjRtpS_",
+        "local_path": "heroes\\lash\\skins\\Lash Yakuza.vpk"
+      },
+      "version": "1.0"
+    },
+    "tf2_turret_sound_replacement": {
+      "id": "tf2_turret_sound_replacement",
+      "title": "# TF2 turret sound replacement",
+      "category": "heroes",
+      "hero": "mcginnis",
+      "type": "hero_mods",
+      "author": "DeltaC7",
+      "last_updated": "2024-10-15",
+      "media": {
+        "preview": "",
+        "video": "TF2 turret sound replacement.mp4"
+      },
+      "descriptions": {
+        "en": "This mod replaces the turret sounds to sound like the ones from TeamFortress 2.",
+        "ru": "Этот мод заменяет звуки турелей на звуки из Team Fortress 2"
+      },
+      "file": {
+        "name": "TF2 turret sound replacement.vpk",
+        "size": 1190687,
+        "hash": "b446fdb10530a333e60ae26c98b86bfc2d8d4f3798bbf4cd87de0931360e64c5",
+        "drive_id": "1nQ0IbdvX1CiWFGku-kOZ1slGeLqrNUVJ",
+        "local_path": "heroes\\mcginnis\\hero_mods\\TF2 turret sound replacement.vpk"
+      },
+      "version": "1.0"
+    },
+    "turrets_from_portal": {
+      "id": "turrets_from_portal",
+      "title": "# Turrets from Portal",
+      "category": "heroes",
+      "hero": "mcginnis",
+      "type": "hero_mods",
+      "author": "Community",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "turrets_from_portal.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Turrets from Portal.vpk",
+        "size": 33976429,
+        "hash": "0bbc3c82d74fc0f0faa78dfd0a48ab564f4d47c927421c29de3cc4ae64bb7613",
+        "drive_id": "153JNPjwekuhEetuLE0a3vWPxGHEa8BBn",
+        "local_path": "heroes\\mcginnis\\hero_mods\\Turrets from Portal.vpk"
+      },
+      "version": "1.0"
+    },
+    "mcginnis_engineer": {
+      "id": "mcginnis_engineer",
+      "title": "# McGinnis Engineer",
+      "category": "heroes",
+      "hero": "mcginnis",
+      "type": "skins",
+      "author": "Ahzelion",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "mcginnis_engineer.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "McGinnis Engineer.vpk",
+        "size": 38023980,
+        "hash": "c5fff61d1b1964938142077d6611a818c0b1216829b4aedc0a67a992dc7457d3",
+        "drive_id": "1paZ4WYmFJtagi5pPSW8tH4tm42pNm4D6",
+        "local_path": "heroes\\mcginnis\\skins\\McGinnis Engineer.vpk"
+      },
+      "version": "1.0"
+    },
+    "mcginnis_paw": {
+      "id": "mcginnis_paw",
+      "title": "# McGinnis Paw",
+      "category": "heroes",
+      "hero": "mcginnis",
+      "type": "skins",
+      "author": "taylorthedog",
+      "last_updated": "2024-11-10",
+      "media": {
+        "preview": "mcginnis_paw.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "It changes the the tread on her boots to be paw beans configuration.",
+        "ru": "Меняет рисунок подошвы на её ботинках на конфигурацию в виде отпечатков лап"
+      },
+      "file": {
+        "name": "McGinnis Paw.vpk",
+        "size": 18492959,
+        "hash": "ae73d1414f240645ac0ba1606b39b93dba81d4e2fa2b781e69ce7b01e34de3b8",
+        "drive_id": "1PDYhkJbJCNeIcHR_YG9tgEdgCDZQUCrl",
+        "local_path": "heroes\\mcginnis\\skins\\McGinnis Paw.vpk"
+      },
+      "version": "1.0"
+    },
+    "mcginnis_red": {
+      "id": "mcginnis_red",
+      "title": "# McGinnis Red",
+      "category": "heroes",
+      "hero": "mcginnis",
+      "type": "skins",
+      "author": "Ahzelion",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "mcginnis_red.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "McGinnis Red.vpk",
+        "size": 8544279,
+        "hash": "ccee4670dbf16497bd676f4cf338726429452fa5324b47c09061bed8c2e79460",
+        "drive_id": "1C8ULBn7IXV8XejjQ0uynXUZvv_JKJWix",
+        "local_path": "heroes\\mcginnis\\skins\\McGinnis Red.vpk"
+      },
+      "version": "1.0"
+    },
+    "mirage_s_ult_sound": {
+      "id": "mirage_s_ult_sound",
+      "title": "# Mirage_s ult sound",
+      "category": "heroes",
+      "hero": "mirage",
+      "type": "hero_mods",
+      "author": "Community",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "mirage_s_ult_sound.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Mirage_s ult sound.vpk",
+        "size": 104300,
+        "hash": "31e771cedfdcffd781c75fdcccf1e297e44eb0331b90d9f0dd40271f1dda0631",
+        "drive_id": "1TAQm_i17H41zVizL4-vNuVx7AcozYW3d",
+        "local_path": "heroes\\mirage\\hero_mods\\Mirage_s ult sound.vpk"
+      },
+      "version": "1.0"
+    },
+    "jaws_and_krill": {
+      "id": "jaws_and_krill",
+      "title": "# Jaws and Krill",
+      "category": "heroes",
+      "hero": "mo_and_krill",
+      "type": "hero_mods",
+      "author": "Community",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "",
+        "video": "Jaws and Krill.mp4"
+      },
+      "descriptions": {
+        "en": "Changes 2 skill sound into Jaws OST",
+        "ru": "Заменяет звук второй способности на саундтрек из фильма Челюсти"
+      },
+      "file": {
+        "name": "Jaws and Krill.vpk",
+        "size": 237127,
+        "hash": "b0ee933a7986e53514f929ea02495a30001a4c754850b5a3ad7c81c7180f5b4e",
+        "drive_id": "1mAfB72AuoMOfRQRAbwoGDeyl4GtzZ39u",
+        "local_path": "heroes\\mo_and_krill\\hero_mods\\Jaws and Krill.vpk"
+      },
+      "version": "1.0"
+    },
+    "mo_and_krill_ivy_and_ivy": {
+      "id": "mo_and_krill_ivy_and_ivy",
+      "title": "# Mo and Krill Ivy and Ivy",
+      "category": "heroes",
+      "hero": "mo_and_krill",
+      "type": "skins",
+      "author": "thekekman",
+      "last_updated": "2024-11-28",
+      "media": {
+        "preview": "Mo and Krill Ivy and Ivy.jpg",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Mix Mo and Mo with Ivy",
+        "ru": "Смешивает Mo и Krill с Ivy"
+      },
+      "file": {
+        "name": "Mo and Krill Ivy and Ivy.vpk",
+        "size": 10809004,
+        "hash": "cec891ee6cc90c44913e4fdcb7b342afd78a1d7702ee9da4508561d8de54cb2f",
+        "drive_id": "1C4P2r946kIQlcS8rfDflEG8nfgbkbXmA",
+        "local_path": "heroes\\mo_and_krill\\skins\\Mo and Krill Ivy and Ivy.vpk"
+      },
+      "version": "1.0"
+    },
+    "mo_and_krill_krill_and_mo": {
+      "id": "mo_and_krill_krill_and_mo",
+      "title": "# Mo and Krill Krill and Mo",
+      "category": "heroes",
+      "hero": "mo_and_krill",
+      "type": "skins",
+      "author": "Ahze",
+      "last_updated": "2024-10-10",
+      "media": {
+        "preview": "mo_and_krill_krill_and_mo.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Swaps Mo and Krill's models",
+        "ru": "Меняет местами модели Mo и Krill"
+      },
+      "file": {
+        "name": "Mo and Krill Krill and Mo.vpk",
+        "size": 5340750,
+        "hash": "69d66377bbea41e39fac3b63abf1e46b6d9c9cb43cab91490ef58491e53de483",
+        "drive_id": "1rscFicfxY0xhv1IVqTUNcIe45Z5ICv-V",
+        "local_path": "heroes\\mo_and_krill\\skins\\Mo and Krill Krill and Mo.vpk"
+      },
+      "version": "1.0"
+    },
+    "mo_and_krill_mo_and_mo": {
+      "id": "mo_and_krill_mo_and_mo",
+      "title": "# Mo and Krill Mo and Mo",
+      "category": "heroes",
+      "hero": "mo_and_krill",
+      "type": "skins",
+      "author": "Ahze",
+      "last_updated": "2024-10-21",
+      "media": {
+        "preview": "mo_and_krill_mo_and_mo.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Makes Krill look like Mo",
+        "ru": "Делает Krill похожим на Mo"
+      },
+      "file": {
+        "name": "Mo and Krill Mo and Mo.vpk",
+        "size": 8251776,
+        "hash": "e2714e3707bd4fb958cfc515300fcb65c98cbfb0195d94adfb7a210578856c4d",
+        "drive_id": "1yzXtEBaUJs4-U94tqt2t2dKm-AEhpdOv",
+        "local_path": "heroes\\mo_and_krill\\skins\\Mo and Krill Mo and Mo.vpk"
+      },
+      "version": "1.0"
+    },
+    "mo_and_krill_shark": {
+      "id": "mo_and_krill_shark",
+      "title": "# Mo and Krill Shark",
+      "category": "heroes",
+      "hero": "mo_and_krill",
+      "type": "skins",
+      "author": "Pinewabble",
+      "last_updated": "2024-11-16",
+      "media": {
+        "preview": "mo_and_krill_shark.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Turn Mo and Krill into shark and diver",
+        "ru": "Превращает Mo и Krill в акулу и дайвера"
+      },
+      "file": {
+        "name": "Mo and Krill Shark.vpk",
+        "size": 37252307,
+        "hash": "7adeeec1b7876652c8e2ea760f162b1193cbc21277e3cabbc677c2017cf2e28d",
+        "drive_id": "1pLCV_2v8Odrh1wvzraVjYSuLI_-ASXg0",
+        "local_path": "heroes\\mo_and_krill\\skins\\Mo and Krill Shark.vpk"
+      },
+      "version": "1.0"
+    },
+    "paradox_bikinidox": {
+      "id": "paradox_bikinidox",
+      "title": "# Paradox Bikinidox",
+      "category": "heroes",
+      "hero": "paradox",
+      "type": "skins",
+      "author": "Community",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "paradox_bikinidox.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Paradox Bikinidox.vpk",
+        "size": 35595334,
+        "hash": "6316a548d224f9eef3c5c4106330e7020fe7dcca01f789282fd55c765be8c293",
+        "drive_id": "1IxMCK_JL9QdXaWpl1qHRFNxu3ivE8JY2",
+        "local_path": "heroes\\paradox\\skins\\Paradox Bikinidox.vpk"
+      },
+      "version": "1.0"
+    },
+    "paradox_bunnydox": {
+      "id": "paradox_bunnydox",
+      "title": "# Paradox Bunnydox",
+      "category": "heroes",
+      "hero": "paradox",
+      "type": "skins",
+      "author": "snr.quak ",
+      "last_updated": "2024-11-13",
+      "media": {
+        "preview": "paradox_bunnydox.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "A mod for Paradox which gives her a bunnysuit",
+        "ru": "Мод для Paradox, добавляющий ей костюм зайчика"
+      },
+      "file": {
+        "name": "Paradox Bunnydox.vpk",
+        "size": 29096301,
+        "hash": "e8e89b5acede13329adc0f689ec2a07ddefef9c4c90c3700fe0144475b45f8de",
+        "drive_id": "1u-cpYqVeMC4sbi917gMEg12REePBwR7N",
+        "local_path": "heroes\\paradox\\skins\\Paradox Bunnydox.vpk"
+      },
+      "version": "1.0"
+    },
+    "paradox_ivydox": {
+      "id": "paradox_ivydox",
+      "title": "# Paradox Ivydox",
+      "category": "heroes",
+      "hero": "paradox",
+      "type": "skins",
+      "author": "noviktow",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "paradox_ivydox.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Paradox Ivydox.vpk",
+        "size": 10226466,
+        "hash": "1e4dafece302bae16ce5d0a5001dbea08bf3197aa53569d6a19320ec8223330e",
+        "drive_id": "1GswcIjyQbv6JVl_OdgLIK6jm0-YL7jpi",
+        "local_path": "heroes\\paradox\\skins\\Paradox Ivydox.vpk"
+      },
+      "version": "1.0"
+    },
+    "paradox_light_pyradox": {
+      "id": "paradox_light_pyradox",
+      "title": "# Paradox Light Pyradox",
+      "category": "heroes",
+      "hero": "paradox",
+      "type": "skins",
+      "author": "quazlee",
+      "last_updated": "2024-11-18",
+      "media": {
+        "preview": "paradox_light_pyradox.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "yra from Xenoblade Chronicles 2 for Paradox with light knockers.",
+        "ru": "Pyra из Xenoblade Chronicles 2 для Paradox с облегченными аксессуарами"
+      },
+      "file": {
+        "name": "Paradox Light Pyradox.vpk",
+        "size": 32212607,
+        "hash": "489fc851226e38ed63717adfa86d2dc5afca944f97ab869f9a63dee27133c543",
+        "drive_id": "1zcY6xpgKb9B9hPgDAYsTSE3EnRTrpFGC",
+        "local_path": "heroes\\paradox\\skins\\Paradox Light Pyradox.vpk"
+      },
+      "version": "1.0"
+    },
+    "paradox_pyradox": {
+      "id": "paradox_pyradox",
+      "title": "# Paradox Pyradox",
+      "category": "heroes",
+      "hero": "paradox",
+      "type": "skins",
+      "author": "quazlee",
+      "last_updated": "2024-11-18",
+      "media": {
+        "preview": "paradox_pyradox.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Pyra from Xenoblade Chronicles 2 for Paradox.",
+        "ru": "Pyra из Xenoblade Chronicles 2 для Paradox"
+      },
+      "file": {
+        "name": "Paradox Pyradox.vpk",
+        "size": 12819361,
+        "hash": "64d74cdbb27cc2c5fb78ddded6334e699a0ad35e32574abb99eeac2928f6442f",
+        "drive_id": "1DFb0mpUS_EdyMw52W9iEbxGa3XbaK_dz",
+        "local_path": "heroes\\paradox\\skins\\Paradox Pyradox.vpk"
+      },
+      "version": "1.0"
+    },
+    "pocket_gold": {
+      "id": "pocket_gold",
+      "title": "# Pocket Gold",
+      "category": "heroes",
+      "hero": "pocket",
+      "type": "skins",
+      "author": "Vttoc",
+      "last_updated": "2024-11-30",
+      "media": {
+        "preview": "Pocket Gold.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Makes Pocket look gold",
+        "ru": "Делает Pocket золотым"
+      },
+      "file": {
+        "name": "Pocket Gold.vpk",
+        "size": 48765381,
+        "hash": "5bc9b18701666b31f08867c379cefa5209f3f523d7e6f3fa2cd056b62e21a81b",
+        "drive_id": "1zJaN3Rf-oshI5Tm0PJQrL0q4Jp1_2gqS",
+        "local_path": "heroes\\pocket\\skins\\Pocket Gold.vpk"
+      },
+      "version": "1.0"
+    },
+    "pocket_holiday_over": {
+      "id": "pocket_holiday_over",
+      "title": "# Pocket Holiday over",
+      "category": "heroes",
+      "hero": "pocket",
+      "type": "skins",
+      "author": "gigawattgigwhat",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "pocket_holiday_over.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Pocket Holiday over.vpk",
+        "size": 9694466,
+        "hash": "8910ca8cb67913a017edc8b604c3c04a21d91a3a829cb8c69cad45597195acb7",
+        "drive_id": "1Z6yO5qAZ79ClLBa7QI0hx1P8QQka7l1A",
+        "local_path": "heroes\\pocket\\skins\\Pocket Holiday over.vpk"
+      },
+      "version": "1.0"
+    },
+    "pocket_loona": {
+      "id": "pocket_loona",
+      "title": "# Pocket Loona",
+      "category": "heroes",
+      "hero": "pocket",
+      "type": "skins",
+      "author": "gigawattgigwhat",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "pocket_loona.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Pocket Loona.vpk",
+        "size": 29149135,
+        "hash": "3ef90f7890d75681fff181d343cf22377be8da352b4cb9267cef0f17f0cab686",
+        "drive_id": "17q_kId8JCBLMsDehA34WpGAxKl7qT85l",
+        "local_path": "heroes\\pocket\\skins\\Pocket Loona.vpk"
+      },
+      "version": "1.0"
+    },
+    "and_his_music_was_electric": {
+      "id": "and_his_music_was_electric",
+      "title": "# And his music was electric",
+      "category": "heroes",
+      "hero": "seven",
+      "type": "hero_mods",
+      "author": "SoupIsLumpy",
+      "last_updated": "2024-10-24",
+      "media": {
+        "preview": "",
+        "video": "And his music was electric.mp4"
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "And his music was electric.vpk",
+        "size": 12693136,
+        "hash": "6f2409db7a29be53bd632b243ca51b19680ca63a13abcdd7e38b70e9111232de",
+        "drive_id": "1CForEOc8E6ed7Xxzqxt0EwzqPb5VeM69",
+        "local_path": "heroes\\seven\\hero_mods\\And his music was electric.vpk"
+      },
+      "version": "1.0"
+    },
+    "better_seven_ult_sound": {
+      "id": "better_seven_ult_sound",
+      "title": "# Better Seven Ult Sound",
+      "category": "heroes",
+      "hero": "seven",
+      "type": "hero_mods",
+      "author": "robothegod",
+      "last_updated": "2024-09-29",
+      "media": {
+        "preview": "",
+        "video": "Better Seven Ult Sound.mp4"
+      },
+      "descriptions": {
+        "en": "Cool mod changed the ult sound to have cool lightning sounds in it.",
+        "ru": ""
+      },
+      "file": {
+        "name": "Better Seven Ult Sound.vpk",
+        "size": 4892275,
+        "hash": "654978858da407467aa169ec35940f9e11ae46391000c9994757d1004f9baf88",
+        "drive_id": "16dcQGf2OUU7JG4mbaYkdpgaHAbBASva2",
+        "local_path": "heroes\\seven\\hero_mods\\Better Seven Ult Sound.vpk"
+      },
+      "version": "1.0"
+    },
+    "komm,susser_tod": {
+      "id": "komm,susser_tod",
+      "title": "# Komm,susser Tod",
+      "category": "heroes",
+      "hero": "seven",
+      "type": "hero_mods",
+      "author": "samabo",
+      "last_updated": "2024-11-12",
+      "media": {
+        "preview": "",
+        "video": "Komm,susser Tod.mp4"
+      },
+      "descriptions": {
+        "en": "WE'RE STARTING THE THIRD IMPACT",
+        "ru": "WE'RE STARTING THE THIRD IMPACT"
+      },
+      "file": {
+        "name": "Komm,susser Tod.vpk",
+        "size": 31083972,
+        "hash": "f6890ca942dc2e83b0bdd227f5a7da0ac09b872d0379e186a6fc26d68d8f53a5",
+        "drive_id": "1i9idyELJnc5hgfrD4NZZO817kjK8izuD",
+        "local_path": "heroes\\seven\\hero_mods\\Komm,susser Tod.vpk"
+      },
+      "version": "1.0"
+    },
+    "my_love_mine_all_mine": {
+      "id": "my_love_mine_all_mine",
+      "title": "# My Love Mine All Mine",
+      "category": "heroes",
+      "hero": "seven",
+      "type": "hero_mods",
+      "author": "SoupIsLumpy",
+      "last_updated": "2024-11-03",
+      "media": {
+        "preview": "",
+        "video": "My Love Mine All Mine.mp4"
+      },
+      "descriptions": {
+        "en": "Adds Mitski's \"My Love Mine All Mine\" to sevens ult",
+        "ru": "Добавляет песню Mitski \"My Love Mine All Mine\" к ультимативной способности Seven"
+      },
+      "file": {
+        "name": "My Love Mine All Mine.vpk",
+        "size": 16935593,
+        "hash": "b3cfb5015d0066259f7c1290727fe2af99e59c28db9c946f9972bc7424ca6041",
+        "drive_id": "1OLMYl0BDJBdH-9AuVAAfrRWu79_mYkqV",
+        "local_path": "heroes\\seven\\hero_mods\\My Love Mine All Mine.vpk"
+      },
+      "version": "1.0"
+    },
+    "rammstein_sonne": {
+      "id": "rammstein_sonne",
+      "title": "# Rammstein Sonne",
+      "category": "heroes",
+      "hero": "seven",
+      "type": "hero_mods",
+      "author": "DeltaC7",
+      "last_updated": "2024-10-22",
+      "media": {
+        "preview": "",
+        "video": "Rammstein Sonne.mp4"
+      },
+      "descriptions": {
+        "en": "Replaces the ultimate sound for Seven with the very famous part of Rammstein's Sonne.",
+        "ru": "Заменяет звук ультимативной способности Seven на знаменитую часть песни Rammstein \"Sonne\""
+      },
+      "file": {
+        "name": "Rammstein Sonne.vpk",
+        "size": 539412,
+        "hash": "338a8dc83ae8ef736aaf62aa09a4674d25c576b4cb3ad765e8811fb7b3e54e0e",
+        "drive_id": "1fb12BGb6bwll1AsP_EpXp6ECG5aK8JPx",
+        "local_path": "heroes\\seven\\hero_mods\\Rammstein Sonne.vpk"
+      },
+      "version": "1.0"
+    },
+    "seven_gigavatt": {
+      "id": "seven_gigavatt",
+      "title": "# Seven gigavatt",
+      "category": "heroes",
+      "hero": "seven",
+      "type": "skins",
+      "author": "gigawattgigwhat",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "seven_gigavatt.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Seven gigavatt.vpk",
+        "size": 112534104,
+        "hash": "85e905cd9ab0b86c69ddc919ba2333398a9e8f739b8f0c1824b29570b0228e62",
+        "drive_id": "1bZ8Jxe-6uzNE2w2Ln4kYAgwK7C7HPbiw",
+        "local_path": "heroes\\seven\\skins\\Seven gigavatt.vpk"
+      },
+      "version": "1.0"
+    },
+    "seven_halloween": {
+      "id": "seven_halloween",
+      "title": "# Seven Halloween",
+      "category": "heroes",
+      "hero": "seven",
+      "type": "skins",
+      "author": "gigawattgigwhat",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "seven_halloween.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Seven Halloween.vpk",
+        "size": 66050937,
+        "hash": "171710d7b71425dcc47b4e6c04063ad942fa83bd6ab54a81d432ad1d08cb7083",
+        "drive_id": "1ME1KIZJGhmmiQ6oE07kF3bQIarU0PmQY",
+        "local_path": "heroes\\seven\\skins\\Seven Halloween.vpk"
+      },
+      "version": "1.0"
+    },
+    "seven_low_poly": {
+      "id": "seven_low_poly",
+      "title": "# Seven Low Poly",
+      "category": "heroes",
+      "hero": "seven",
+      "type": "skins",
+      "author": "gigawattgigwhat",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "seven_low_poly.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Seven Low Poly.vpk",
+        "size": 36257063,
+        "hash": "d33e0be576e99e6a0d1f0f5769c6cada51a9f6fb91f9212614c488706819989d",
+        "drive_id": "19yFWgVUJUmFwbKFpq6J7EHFQOo8i2kls",
+        "local_path": "heroes\\seven\\skins\\Seven Low Poly.vpk"
+      },
+      "version": "1.0"
+    },
+    "seven_neonprime": {
+      "id": "seven_neonprime",
+      "title": "# Seven NeonPrime",
+      "category": "heroes",
+      "hero": "seven",
+      "type": "skins",
+      "author": "Wuzzterfuzz",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "seven_neon_prime.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Seven NeonPrime.vpk",
+        "size": 54110008,
+        "hash": "d3a4b62eb5ee627a69f30e55ffd2ee68b08df400735d0cbae2819b632c074efd",
+        "drive_id": "1XBi3F8weFNCQM6jVdhiLoVkqqPevpWQP",
+        "local_path": "heroes\\seven\\skins\\Seven NeonPrime.vpk"
+      },
+      "version": "1.0"
+    },
+    "shiv_bald": {
+      "id": "shiv_bald",
+      "title": "# Shiv Bald",
+      "category": "heroes",
+      "hero": "shiv",
+      "type": "skins",
+      "author": "uglycoal",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "shiv_bald.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Shiv Bald.vpk",
+        "size": 10749954,
+        "hash": "86e83d1f855af39eafc8fa599a5c31412ee7cd8057e80f51193b2324aae16a42",
+        "drive_id": "11A94k5ZRlt9MbYdYRMqnm8KgkyxcQhqM",
+        "local_path": "heroes\\shiv\\skins\\Shiv Bald.vpk"
+      },
+      "version": "1.0"
+    },
+    "shiv_infernus_cap": {
+      "id": "shiv_infernus_cap",
+      "title": "# Shiv Infernus Cap",
+      "category": "heroes",
+      "hero": "shiv",
+      "type": "skins",
+      "author": "The 2fort Cremator",
+      "last_updated": "2024-11-30",
+      "media": {
+        "preview": "Shiv Infernus Cap.jpg",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Shiv with Infenus cap",
+        "ru": "Shiv в кепке Infernus"
+      },
+      "file": {
+        "name": "Shiv Infernus Cap.vpk",
+        "size": 7859264,
+        "hash": "60124528cc20947f58a4e9bfb07692695ff50ae44678ee2c5550e60cecf6793e",
+        "drive_id": "1SgdYQIo_tekOOgUiERBO_TKFaXFh1hVL",
+        "local_path": "heroes\\shiv\\skins\\Shiv Infernus Cap.vpk"
+      },
+      "version": "1.0"
+    },
+    "shiv_long_hair": {
+      "id": "shiv_long_hair",
+      "title": "# Shiv Long hair",
+      "category": "heroes",
+      "hero": "shiv",
+      "type": "skins",
+      "author": "uglycoal",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "shiv_long_hair.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Shiv Long hair.vpk",
+        "size": 6833950,
+        "hash": "aab971c9d63d6e905e6a7601e044dd7cf9accaa11ceb2322f8807532f6c3cb2b",
+        "drive_id": "1SBwrd0t-NobKdqJxu5T85XQnubVM-sqq",
+        "local_path": "heroes\\shiv\\skins\\Shiv Long hair.vpk"
+      },
+      "version": "1.0"
+    },
+    "shiv_neon_prime": {
+      "id": "shiv_neon_prime",
+      "title": "# Shiv Neon Prime",
+      "category": "heroes",
+      "hero": "shiv",
+      "type": "skins",
+      "author": "lamarrite",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "shiv_neon_prime.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Shiv Neon Prime.vpk",
+        "size": 395808841,
+        "hash": "aeec10fcae169946648de48756fa7fc7ab094b444a66a6ca835337a34947418b",
+        "drive_id": "1Pp39qJGMpP07vTZDPL0eiMjTLCTcRjGI",
+        "local_path": "heroes\\shiv\\skins\\Shiv Neon Prime.vpk"
+      },
+      "version": "1.0"
+    },
+    "shiv_v": {
+      "id": "shiv_v",
+      "title": "# Shiv V1",
+      "category": "heroes",
+      "hero": "shiv",
+      "type": "skins",
+      "author": "gigawattgigwhat",
+      "last_updated": "2024-11-13",
+      "media": {
+        "preview": "shiv_v.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Turns Shiv into a V1 from Ultrakill",
+        "ru": ""
+      },
+      "file": {
+        "name": "Shiv V.vpk",
+        "size": 12746763,
+        "hash": "f02fd414bed042e34680d6182800d02905831061c531a208365920e265f49715",
+        "drive_id": "1DNy2SiY4V1UIeGm5NPZ0-SIf2dHtzaXt",
+        "local_path": "heroes\\shiv\\skins\\Shiv V.vpk"
+      },
+      "version": "1.0"
+    },
+    "awp_sound_ult": {
+      "id": "awp_sound_ult",
+      "title": "# awp sound ult",
+      "category": "heroes",
+      "hero": "vindicta",
+      "type": "hero_mods",
+      "author": "MrTerere",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "",
+        "video": "awp sound ult.mp4"
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "awp sound ult.vpk",
+        "size": 3724445,
+        "hash": "ee3f6bb7a287b34de245be7b499ad19ee4d38a4a2cb7964804ea3c0d8304b05c",
+        "drive_id": "13vWHqcCaKpJYkZv-WEH0xi082ZFYreNB",
+        "local_path": "heroes\\vindicta\\hero_mods\\awp sound ult.vpk"
+      },
+      "version": "1.0"
+    },
+    "vindicta_bikinidicta_full_mod": {
+      "id": "vindicta_bikinidicta_full_mod",
+      "title": "# Vindicta Bikinidicta Full mod",
+      "category": "heroes",
+      "hero": "vindicta",
+      "type": "skins",
+      "author": "kellermax",
+      "last_updated": "2024-11-12",
+      "media": {
+        "preview": "Vindicta Bikinidicta.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Dresses Vindicta in the Bikini",
+        "ru": "Одевает Vindicta в бикини"
+      },
+      "file": {
+        "name": "Vindicta Bikinidicta Full mod.vpk",
+        "size": 26165908,
+        "hash": "7d0ca98244787b16f826c86ca0328b1fb8195e17b86e6e21209391e7d9acfb11",
+        "drive_id": "1bqtMFy3NuFVFJ1utp92qbREctXk97jSd",
+        "local_path": "heroes\\vindicta\\skins\\Vindicta Bikinidicta Full mod.vpk"
+      },
+      "version": "1.0"
+    },
+    "vindicta_bikinidicta_no_2_skill_music": {
+      "id": "vindicta_bikinidicta_no_2_skill_music",
+      "title": "# Vindicta Bikinidicta No 2 skill music",
+      "category": "heroes",
+      "hero": "vindicta",
+      "type": "skins",
+      "author": "kellermax",
+      "last_updated": "2024-11-12",
+      "media": {
+        "preview": "vindicta_bikinidicta_no_2_skill.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Mod variation without 2 skill music",
+        "ru": "Вариант мода без музыкального сопровождения второй способности"
+      },
+      "file": {
+        "name": "Vindicta Bikinidicta No 2 skill music.vpk",
+        "size": 23342296,
+        "hash": "ef5296253bb37a6507d0e6585dbd394c81c185efd9a3c2957e6e8ac7a916019d",
+        "drive_id": "13LJlQoTMxb2GEzNMIFtJWfj6mo5hojrN",
+        "local_path": "heroes\\vindicta\\skins\\Vindicta Bikinidicta No 2 skill music.vpk"
+      },
+      "version": "1.0"
+    },
+    "vindicta_bikinidicta_no_sounds": {
+      "id": "vindicta_bikinidicta_no_sounds",
+      "title": "# Vindicta Bikinidicta No sounds",
+      "category": "heroes",
+      "hero": "vindicta",
+      "type": "skins",
+      "author": "kellermax",
+      "last_updated": "2024-11-12",
+      "media": {
+        "preview": "vindicta_bikinidicta_no_sounds.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Mod variation without custom sounds, only skin",
+        "ru": "Вариант мода без пользовательских звуков, только облик"
+      },
+      "file": {
+        "name": "Vindicta Bikinidicta No sounds.vpk",
+        "size": 20435763,
+        "hash": "55892f5cb9ec71028eb83111a12c76a448e32d63f817f74e91645ab5ab817570",
+        "drive_id": "1bfHyshg6KdsNMwnE-RWCTh6pvnjKfBeB",
+        "local_path": "heroes\\vindicta\\skins\\Vindicta Bikinidicta No sounds.vpk"
+      },
+      "version": "1.0"
+    },
+    "vindicta_black+white": {
+      "id": "vindicta_black+white",
+      "title": "# Vindicta Black+White",
+      "category": "heroes",
+      "hero": "vindicta",
+      "type": "skins",
+      "author": "TheEloThief",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "vindicta_black_white.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Vindicta Black+White.vpk",
+        "size": 4200903,
+        "hash": "ac8ae2c784120a4086c031c69fe1c2033d558855611ba484631102a8477e3f77",
+        "drive_id": "1jXOc0uPNXvn0uF11pHyHqgRHMgXsqIZl",
+        "local_path": "heroes\\vindicta\\skins\\Vindicta Black+White.vpk"
+      },
+      "version": "1.0"
+    },
+    "vindicta_ivydicta": {
+      "id": "vindicta_ivydicta",
+      "title": "# Vindicta Ivydicta",
+      "category": "heroes",
+      "hero": "vindicta",
+      "type": "skins",
+      "author": "thekekman",
+      "last_updated": "2024-11-30",
+      "media": {
+        "preview": "Vindicta Ivydicta.jpg",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Mix Vindicta with Ivy",
+        "ru": "Смешивает Vindicta с Ivy"
+      },
+      "file": {
+        "name": "Vindicta Ivydicta.vpk",
+        "size": 9363602,
+        "hash": "f574c93206a64cf49f0e03139f874ee5200f114114e2de605cd5c7148b9162df",
+        "drive_id": "1E7FEISEwMJH9CvYU7jPiKEzzMi6MppNp",
+        "local_path": "heroes\\vindicta\\skins\\Vindicta Ivydicta.vpk"
+      },
+      "version": "1.0"
+    },
+    "vindicta_sandals": {
+      "id": "vindicta_sandals",
+      "title": "# Vindicta Sandals",
+      "category": "heroes",
+      "hero": "vindicta",
+      "type": "skins",
+      "author": "Index",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "vindicta_sandals.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Vindicta Sandals.vpk",
+        "size": 10593204,
+        "hash": "bda28776dc7e69d658ad8139e80d407a84ab0c731282265f195c33465e098bbf",
+        "drive_id": "1dRIbhogS5ToER_CIL-1dU5luwJfiDqHf",
+        "local_path": "heroes\\vindicta\\skins\\Vindicta Sandals.vpk"
+      },
+      "version": "1.0"
+    },
+    "vindicta_shoes": {
+      "id": "vindicta_shoes",
+      "title": "# Vindicta Shoes",
+      "category": "heroes",
+      "hero": "vindicta",
+      "type": "skins",
+      "author": "index.7",
+      "last_updated": "2024-11-14",
+      "media": {
+        "preview": "vindicta_shoes.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "This will put an end to the vindicta feet posters.",
+        "ru": "Это положит конец постерам с ногами Vindicta"
+      },
+      "file": {
+        "name": "Vindicta Shoes.vpk",
+        "size": 9933700,
+        "hash": "21478caadecad55d709b0de2badb841e74df4c1a5c6908c20dda6896ef686de7",
+        "drive_id": "1F93n8S1j7YCE3wPS7I49CJZrXv9MZ5ZK",
+        "local_path": "heroes\\vindicta\\skins\\Vindicta Shoes.vpk"
+      },
+      "version": "1.0"
+    },
+    "vindicta_widowmaker": {
+      "id": "vindicta_widowmaker",
+      "title": "# Vindicta Widowmaker",
+      "category": "heroes",
+      "hero": "vindicta",
+      "type": "skins",
+      "author": "BanzaFahra",
+      "last_updated": "2024-11-30",
+      "media": {
+        "preview": "Vindicta Widowmaker.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Turn Vindicta into Widowmaker from Overwatch",
+        "ru": "Превращает Vindicta в Widowmaker из Overwatch"
+      },
+      "file": {
+        "name": "Vindicta Widowmaker.vpk",
+        "size": 48811824,
+        "hash": "d221a674048b18811e2ab55f993d7d6a2ed633022367357cc9f65737993be95d",
+        "drive_id": "1a3RRye6RPq8WGz1oX7SB_UmaSCs2ywZD",
+        "local_path": "heroes\\vindicta\\skins\\Vindicta Widowmaker.vpk"
+      },
+      "version": "1.0"
+    },
+    "viper_makes_viper_sounds": {
+      "id": "viper_makes_viper_sounds",
+      "title": "# Viper makes viper sounds",
+      "category": "heroes",
+      "hero": "viper",
+      "type": "hero_mods",
+      "author": "taskimaiden",
+      "last_updated": "2024-11-14",
+      "media": {
+        "preview": "",
+        "video": "Viper makes viper sounds.mp4"
+      },
+      "descriptions": {
+        "en": "Makes viper use a dragging sound and occasionally hiss instead of using vindicta's footsteps",
+        "ru": "Заменяет шаги Vindicta на звуки скольжения и периодическое шипение Viper"
+      },
+      "file": {
+        "name": "Viper makes viper sounds.vpk",
+        "size": 229033,
+        "hash": "94a5b8759af8b46d742e215481eed160d2df7f27487d58ff4a7f8fee86503f23",
+        "drive_id": "1J4RIcL5-8UgzFRfPykladhefsksbwW58",
+        "local_path": "heroes\\viper\\hero_mods\\Viper makes viper sounds.vpk"
+      },
+      "version": "1.0"
+    },
+    "viper_snake": {
+      "id": "viper_snake",
+      "title": "# Viper snake",
+      "category": "heroes",
+      "hero": "viper",
+      "type": "skins",
+      "author": "uglycoal",
+      "last_updated": "2024-11-13",
+      "media": {
+        "preview": "viper_snake.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "This skin turns Viper into something close to how some people were portraying her fan redesign",
+        "ru": "Этот скин делает Viper похожим на её фанатские редизайны"
+      },
+      "file": {
+        "name": "Viper snake.vpk",
+        "size": 3645884,
+        "hash": "bf7e60ad1a976efa96fc88e9cc584f3cef05b86d2bcc7dfcec7ad7b03ab38500",
+        "drive_id": "11oOYF3Mdbml1F1fsjlZRf24rNLxvQ-6H",
+        "local_path": "heroes\\viper\\skins\\Viper snake.vpk"
+      },
+      "version": "1.0"
+    },
+    "viscous_cumcous": {
+      "id": "viscous_cumcous",
+      "title": "# Viscous Cumcous",
+      "category": "heroes",
+      "hero": "viscous",
+      "type": "skins",
+      "author": "DrasticElevation",
+      "last_updated": "2024-10-11",
+      "media": {
+        "preview": "viscous_cumcous.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Makes Viscous white",
+        "ru": "Делает Viscous белым"
+      },
+      "file": {
+        "name": "Viscous Cumcous.vpk",
+        "size": 71553079,
+        "hash": "bc9d542a44038589a547cf9e8372017b8acc29226441669e45cf69b602151da3",
+        "drive_id": "14M8bwEbR9q9bmCe2fBqHI2QChmfYAHbx",
+        "local_path": "heroes\\viscous\\skins\\Viscous Cumcous.vpk"
+      },
+      "version": "1.0"
+    },
+    "viscous_glorp": {
+      "id": "viscous_glorp",
+      "title": "# Viscous Glorp",
+      "category": "heroes",
+      "hero": "viscous",
+      "type": "skins",
+      "author": "index.7",
+      "last_updated": "2024-11-04",
+      "media": {
+        "preview": "viscous_glorp.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Makes Viscous head look like glorp",
+        "ru": "Делает голову Viscous похожим на Glorp"
+      },
+      "file": {
+        "name": "Viscous Glorp.vpk",
+        "size": 32039764,
+        "hash": "60df8bcbbbac220d45f346b01e57c920504136c59d03aef78d4ca9e2ebdba408",
+        "drive_id": "1ASmaBa6herc6649oaPw9YGjProJf82dX",
+        "local_path": "heroes\\viscous\\skins\\Viscous Glorp.vpk"
+      },
+      "version": "1.0"
+    },
+    "viscous_halloween": {
+      "id": "viscous_halloween",
+      "title": "# Viscous Halloween",
+      "category": "heroes",
+      "hero": "viscous",
+      "type": "skins",
+      "author": "Ahzelion",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "viscous_halloween.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Viscous Halloween.vpk",
+        "size": 22320316,
+        "hash": "7fa7d7959a4621766211769cdc16e85a98e937950a16703887d4eb4bd55ffbf2",
+        "drive_id": "1oL_mDPQnWZCIRwC3SdD0eMfDZsFDSV5C",
+        "local_path": "heroes\\viscous\\skins\\Viscous Halloween.vpk"
+      },
+      "version": "1.0"
+    },
+    "viscous_pink": {
+      "id": "viscous_pink",
+      "title": "# Viscous Pink",
+      "category": "heroes",
+      "hero": "viscous",
+      "type": "skins",
+      "author": "abysswatchre",
+      "last_updated": "2024-11-22",
+      "media": {
+        "preview": "viscous_pink.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Makes Viscous pink",
+        "ru": "Делает Viscous розовым"
+      },
+      "file": {
+        "name": "Viscous Pink.vpk",
+        "size": 23933337,
+        "hash": "d1767f87610782085a08d966669a4c16533a0704d92cad8434445c0ae2e1f310",
+        "drive_id": "1Zq-Jkaqndf1k7NKTA2XrOCwJ9DKQmmNq",
+        "local_path": "heroes\\viscous\\skins\\Viscous Pink.vpk"
+      },
+      "version": "1.0"
+    },
+    "viscous_raspberry": {
+      "id": "viscous_raspberry",
+      "title": "# Viscous Raspberry",
+      "category": "heroes",
+      "hero": "viscous",
+      "type": "skins",
+      "author": "the_mrsir",
+      "last_updated": "2024-11-21",
+      "media": {
+        "preview": "Viscous Raspberry.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Colors Viscous into a blue color",
+        "ru": "Окрашивает Viscous в синий цвет"
+      },
+      "file": {
+        "name": "Viscous Raspberry.vpk",
+        "size": 392854456,
+        "hash": "aa84dec7968c5bbca740dbafd7966a8ae14a6996c6376765a0d5df9fdab7b3d7",
+        "drive_id": "1fekOsOxSFpQN8PBtkrVERHVcF48SOYsc",
+        "local_path": "heroes\\viscous\\skins\\Viscous Raspberry.vpk"
+      },
+      "version": "1.0"
+    },
+    "viscous_viscoast": {
+      "id": "viscous_viscoast",
+      "title": "# Viscous Viscoast",
+      "category": "heroes",
+      "hero": "viscous",
+      "type": "skins",
+      "author": "albertthinkernoodle",
+      "last_updated": "2024-11-12",
+      "media": {
+        "preview": "Viscous Viscoast.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Viscous got a bit jealous! So it decided to hit the beach as well!",
+        "ru": "Viscous немного приревновал! Поэтому он тоже решил отправиться на пляж"
+      },
+      "file": {
+        "name": "Viscous Viscoast.vpk",
+        "size": 12352237,
+        "hash": "e493e6af379c221a064ca78a293130fee113a9612558190701e325321d7535e8",
+        "drive_id": "15BTnppkZhp7pHAT9a2auKSUe7n8xwsge",
+        "local_path": "heroes\\viscous\\skins\\Viscous Viscoast.vpk"
+      },
+      "version": "1.0"
+    },
+    "wraith_black+white": {
+      "id": "wraith_black+white",
+      "title": "# Wraith Black+White",
+      "category": "heroes",
+      "hero": "wraith",
+      "type": "skins",
+      "author": "TheEloThief",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "wraith_black_white.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Wraith Black+White.vpk",
+        "size": 2102729,
+        "hash": "5ee1c9a488720cfa2a0680f52c07027f634f460c8db323fbcbc0e4b84edae830",
+        "drive_id": "15RYC_A6HmK9W7qMr1fb15_DALkDQQs7O",
+        "local_path": "heroes\\wraith\\skins\\Wraith Black+White.vpk"
+      },
+      "version": "1.0"
+    },
+    "wraith_without_cloak": {
+      "id": "wraith_without_cloak",
+      "title": "# Wraith Without cloak",
+      "category": "heroes",
+      "hero": "wraith",
+      "type": "skins",
+      "author": "shurochi",
+      "last_updated": "2024-11-20",
+      "media": {
+        "preview": "wraith_without_cloak.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Default Wraith without cloak",
+        "ru": "Обычный Wraith без плаща"
+      },
+      "file": {
+        "name": "Wraith Without cloak.vpk",
+        "size": 12092798,
+        "hash": "29b34860855d082bb40a8e5506cfb769381d228754f9bcdb30aec9e2937bdf3a",
+        "drive_id": "1TWo3N5n_jhNFQkSRp1fjVsMqO_DYGpyS",
+        "local_path": "heroes\\wraith\\skins\\Wraith Without cloak.vpk"
+      },
+      "version": "1.0"
+    },
+    "yamato_ult_demonic_voice_filter": {
+      "id": "yamato_ult_demonic_voice_filter",
+      "title": "# Yamato Ult Demonic Voice Filter",
+      "category": "heroes",
+      "hero": "yamato",
+      "type": "hero_mods",
+      "author": "monstobusta",
+      "last_updated": "2024-11-14",
+      "media": {
+        "preview": "",
+        "video": "Yamato Ult Demonic Voice Filter.mp4"
+      },
+      "descriptions": {
+        "en": "Her ult gets a demon voice. That's it.",
+        "ru": "Ультимативная способность Yamato получает демонический голос"
+      },
+      "file": {
+        "name": "Yamato Ult Demonic Voice Filter.vpk",
+        "size": 943645,
+        "hash": "d9bdf76e0db2bd3d504f92fc0e26dc68b3e1f354d0c90e58ac598bcd7f92fc25",
+        "drive_id": "1QFE5DxsiU0JWrx5d90NNYip_jPVIiYTG",
+        "local_path": "heroes\\yamato\\hero_mods\\Yamato Ult Demonic Voice Filter.vpk"
+      },
+      "version": "1.0"
+    },
+    "yamato_2b_without_drawn_sword_and_skirt": {
+      "id": "yamato_2b_without_drawn_sword_and_skirt",
+      "title": "# Yamato 2B without drawn sword and skirt",
+      "category": "heroes",
+      "hero": "yamato",
+      "type": "skins",
+      "author": "fell.off.fuji",
+      "last_updated": "2024-11-21",
+      "media": {
+        "preview": "yamato_2b_without_sword_skirt.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Mod variation without drawn sword and skirt",
+        "ru": "Вариант мода без вытянутого меча и юбки"
+      },
+      "file": {
+        "name": "Yamato 2B without drawn sword and skirt.vpk",
+        "size": 107617838,
+        "hash": "293646712945da55ea6eb2869e3f22e5555b60e67cf87cb5880e8fc7b945bb09",
+        "drive_id": "1LRW_JVLxPxgjwiWNgdYkFpM0VRuS_LRL",
+        "local_path": "heroes\\yamato\\skins\\Yamato 2B without drawn sword and skirt.vpk"
+      },
+      "version": "1.0"
+    },
+    "yamato_2b_without_drawn_sword": {
+      "id": "yamato_2b_without_drawn_sword",
+      "title": "# Yamato 2B without drawn sword",
+      "category": "heroes",
+      "hero": "yamato",
+      "type": "skins",
+      "author": "fell.off.fuji",
+      "last_updated": "2024-11-21",
+      "media": {
+        "preview": "yamato_2b_without_sword.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Mod variation without drawn sword",
+        "ru": "Вариант мода без вытянутого меча"
+      },
+      "file": {
+        "name": "Yamato 2B without drawn sword.vpk",
+        "size": 108913213,
+        "hash": "65244a34d08656312bfac013dd7890bc7968c97ae28b77aef49a8fe3b162cd1f",
+        "drive_id": "1BsjQE4Fk327QIw5wq7g9emlWu9S5Q1mA",
+        "local_path": "heroes\\yamato\\skins\\Yamato 2B without drawn sword.vpk"
+      },
+      "version": "1.0"
+    },
+    "yamato_2b_without_skirt": {
+      "id": "yamato_2b_without_skirt",
+      "title": "# Yamato 2B without skirt",
+      "category": "heroes",
+      "hero": "yamato",
+      "type": "skins",
+      "author": "fell.off.fuji",
+      "last_updated": "2024-11-21",
+      "media": {
+        "preview": "yamato_2b_without_skirt.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Mod variation without skirt",
+        "ru": "Вариант мода без юбки"
+      },
+      "file": {
+        "name": "Yamato 2B without skirt.vpk",
+        "size": 107307340,
+        "hash": "f6f1df76bd68e433ba94a5af2f9abc66b2d25f99e4ae571af3ff430856af68f9",
+        "drive_id": "1Yj89hu4zKyrYL53hssZ24A8d80m7lpXO",
+        "local_path": "heroes\\yamato\\skins\\Yamato 2B without skirt.vpk"
+      },
+      "version": "1.0"
+    },
+    "yamato_2b": {
+      "id": "yamato_2b",
+      "title": "# Yamato 2B",
+      "category": "heroes",
+      "hero": "yamato",
+      "type": "skins",
+      "author": "fell.off.fuji",
+      "last_updated": "2024-11-21",
+      "media": {
+        "preview": "yamato_2b.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Turns Yamato into a 2B",
+        "ru": "Превращает Yamato в 2B"
+      },
+      "file": {
+        "name": "Yamato 2B.vpk",
+        "size": 109227373,
+        "hash": "94ffd2bbd6c4f82a0f1ccd34e8f3b2e4bdc45db01f23c8eec67f3cb878056a77",
+        "drive_id": "1wDQnkJ-5n17Efd3-H0t_EtAILSgnRFxw",
+        "local_path": "heroes\\yamato\\skins\\Yamato 2B.vpk"
+      },
+      "version": "1.0"
+    },
+    "yamato_mytrato": {
+      "id": "yamato_mytrato",
+      "title": "# Yamato Mytrato",
+      "category": "heroes",
+      "hero": "yamato",
+      "type": "skins",
+      "author": "pyralasis",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "yamato_mytrato.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Yamato Mytrato.vpk",
+        "size": 31568778,
+        "hash": "1cd3719783554c5bef1c668258d9ee888084f05e7ebd5a1d4f3def083c800f8f",
+        "drive_id": "1p4tKJy1ZEIT1qwraGCT1KoqHOPOHPx6h",
+        "local_path": "heroes\\yamato\\skins\\Yamato Mytrato.vpk"
+      },
+      "version": "1.0"
+    },
+    "yamato_neonprime": {
+      "id": "yamato_neonprime",
+      "title": "# Yamato NeonPrime",
+      "category": "heroes",
+      "hero": "yamato",
+      "type": "skins",
+      "author": "taskimaiden",
+      "last_updated": "2024-11-08",
+      "media": {
+        "preview": "yamato_neon_prime.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "This mod changes Yamato's textures to be the ones still left over in her v1 folder, making it look more accurate to her portraits",
+        "ru": "Этот мод меняет текстуры Yamato на те, что остались в папке v1, делая её внешний вид ближе к портретам"
+      },
+      "file": {
+        "name": "Yamato NeonPrime.vpk",
+        "size": 55760622,
+        "hash": "ffce7e657ec758af66fd540a931e097b71f0651633b28c8f150a78a713fd0955",
+        "drive_id": "1ZcNTDUCaFz1ZXBagS3RO-DbUtOoqfTnz",
+        "local_path": "heroes\\yamato\\skins\\Yamato NeonPrime.vpk"
+      },
+      "version": "1.0"
+    },
+    "yamato_raiden": {
+      "id": "yamato_raiden",
+      "title": "# Yamato Raiden",
+      "category": "heroes",
+      "hero": "yamato",
+      "type": "skins",
+      "author": "Grelgn",
+      "last_updated": "2024-12-01",
+      "media": {
+        "preview": "Yamato Raiden.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Turns Yamato into Raiden from MGSR",
+        "ru": "Превращает Yamato в Raiden из Metal Gear Rising"
+      },
+      "file": {
+        "name": "Yamato Raiden.vpk",
+        "size": 89558070,
+        "hash": "362dbd397e16d225df87d7c6b333e474da4e621153143c604336c8236049c38a",
+        "drive_id": "1-GDJUOUuWAQT8AmtWvm-4lcfLHJFmSfH",
+        "local_path": "heroes\\yamato\\skins\\Yamato Raiden.vpk"
+      },
+      "version": "1.0"
+    },
+    "yamato_vegil": {
+      "id": "yamato_vegil",
+      "title": "Yamato Vegil",
+      "category": "heroes",
+      "hero": "yamato",
+      "type": "skins",
+      "author": "Unknown",
+      "last_updated": "",
+      "media": {
+        "preview": null,
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Yamato Vegil.vpk",
+        "size": 36940052,
+        "hash": "9aacf13d070131d1418d3d0b0c89888cfea0bbc30adb2bb52320057856c2e8ad",
+        "drive_id": "1U1uP1OK7E4OGzgiiXOems-Y9UR1HZaS8",
+        "local_path": "heroes\\yamato\\skins\\Yamato Vegil.vpk"
+      },
+      "version": "1.0"
+    },
+    "yamato_vergil": {
+      "id": "yamato_vergil",
+      "title": "# Yamato Vergil",
+      "category": "heroes",
+      "hero": "yamato",
+      "type": "skins",
+      "author": "Grelgn",
+      "last_updated": "2024-11-12",
+      "media": {
+        "preview": "Yamato Raiden.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Turns Yamato into Vergil from Devil May Cry 3, featuring custom sound effects and cloth physics.",
+        "ru": "Превращает Yamato в Vergil из Devil May Cry 3, включая особые звуковые эффекты и физику одежды"
+      },
+      "file": {
+        "name": "Yamato Vergil.vpk",
+        "size": 36940052,
+        "hash": "9aacf13d070131d1418d3d0b0c89888cfea0bbc30adb2bb52320057856c2e8ad",
+        "drive_id": "1aHk9SxD5X6K241KUiFfcafNRBoF6x8CT",
+        "local_path": "heroes\\yamato\\skins\\Yamato Vergil.vpk"
+      },
+      "version": "1.0"
+    },
+    "43_ratio_healthbar_fix": {
+      "id": "43_ratio_healthbar_fix",
+      "title": "# 43 ratio healthbar fix",
+      "category": "interface",
+      "hero": null,
+      "type": null,
+      "author": "sir_patyna_4775",
+      "last_updated": "2024-09-14",
+      "media": {
+        "preview": "43 ratio healthbar fix.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "This mod fixes health bar by restoring it in all 4:3 resolutions",
+        "ru": "Этот мод исправляет полоску здоровья, восстанавливая её для всех разрешений 4:3"
+      },
+      "file": {
+        "name": "43 ratio healthbar fix.vpk",
+        "size": 91087,
+        "hash": "8b0a21fb38562c5c78b05aa905101e27fa1071193a955f8f150f267be3981e0b",
+        "drive_id": "1ogp6opjDxlIDcrk0I_H9nxCv8M2b4amm",
+        "local_path": "interface\\43 ratio healthbar fix.vpk"
+      },
+      "version": "1.0"
+    },
+    "4x3_fix_shop": {
+      "id": "4x3_fix_shop",
+      "title": "# 4x3 fix shop",
+      "category": "interface",
+      "hero": null,
+      "type": null,
+      "author": "Community",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "4x3 fix shop.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "4x3 fix shop.vpk",
+        "size": 94537,
+        "hash": "122e21f3c4213a5ae9ba5462bbadccfad9e9b687a1012309ba6deb14306b9810",
+        "drive_id": "1ogp6opjDxlIDcrk0I_H9nxCv8M2b4amm",
+        "local_path": "interface\\4x3 fix shop.vpk"
+      },
+      "version": "1.0"
+    },
+    "among_us_(hud_mod)": {
+      "id": "among_us_(hud_mod)",
+      "title": "# Among Us (HUD mod)",
+      "category": "interface",
+      "hero": null,
+      "type": null,
+      "author": "MrTerere",
+      "last_updated": "2024-11-09",
+      "media": {
+        "preview": "Among Us (HUD mod).png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Make all portaits look like Among Us characters",
+        "ru": "Делает все портреты похожими на персонажей Among Us"
+      },
+      "file": {
+        "name": "Among Us (HUD mod).vpk",
+        "size": 6864494,
+        "hash": "18b654cadfdf1c98a2579fbb4586aa1c5b6ab4aac2a90d973fcdd17dd2892dd0",
+        "drive_id": "1cnc3adF0g18tFPYCcHvJ4QhETQzlWAFJ",
+        "local_path": "interface\\Among Us (HUD mod).vpk"
+      },
+      "version": "1.0"
+    },
+    "better_dot_add-on": {
+      "id": "better_dot_add-on",
+      "title": "# Better dot add-on",
+      "category": "interface",
+      "hero": null,
+      "type": null,
+      "author": "sojo1n",
+      "last_updated": "2024-11-24",
+      "media": {
+        "preview": "Better dot add-on.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "A simple mod that slightly changes the position of the crosshair dot relative to its outline. It also changes the size of the dot to normal and makes it round.",
+        "ru": "Простой мод, слегка изменяющий положение точки прицела относительно её контура. Также меняет размер точки на нормальный и делает её круглой"
+      },
+      "file": {
+        "name": "Better dot add-on.vpk",
+        "size": 30887,
+        "hash": "fa5d6953092a3ed550b4ab14a8b6d185add5cd08cc80c2ff08328dcda249768b",
+        "drive_id": "1bqS8iFy9bSd1Hm1LpLTQSjYNQVrlU2fj",
+        "local_path": "interface\\Better dot add-on.vpk"
+      },
+      "version": "1.0"
+    },
+    "deadlock_relit": {
+      "id": "deadlock_relit",
+      "title": "# Deadlock Relit",
+      "category": "interface",
+      "hero": null,
+      "type": null,
+      "author": "Tianes",
+      "last_updated": "2024-10-09",
+      "media": {
+        "preview": "Deadlock Relit.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "This mod replaces all of the heroes' Loadout screen environments, as well as their shop environments",
+        "ru": "Этот мод заменяет все окружения экранов загрузки героев, а также их вид в магазине"
+      },
+      "file": {
+        "name": "Deadlock Relit.vpk",
+        "size": 6420071,
+        "hash": "f9a766d81d6a9f8444af6a03cee6c260cc4e126f8065a271311b97c6ccd0290b",
+        "drive_id": "1yQ1NcytoYH7PeusJzBQvuLPdhCAVQtbN",
+        "local_path": "interface\\Deadlock Relit.vpk"
+      },
+      "version": "1.0"
+    },
+    "deadlock_toasted": {
+      "id": "deadlock_toasted",
+      "title": "# Deadlock Toasted",
+      "category": "interface",
+      "hero": null,
+      "type": null,
+      "author": "ToastyGhostey",
+      "last_updated": "2024-10-29",
+      "media": {
+        "preview": "Deadlock Toasted.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Replaces icons with the styled one by ToastyGhostey",
+        "ru": "Этот мод заменяет все окружения экранов загрузки героев, а также их окружения в магазине"
+      },
+      "file": {
+        "name": "Deadlock Toasted.vpk",
+        "size": 25611943,
+        "hash": "6268ee4e3943692ada1885d1c7c19925fda6f714a8cbe6134b7d7fef642e5cd3",
+        "drive_id": "1xY6NAU-kTolr6p1SaN6beiNlPcqmyr1e",
+        "local_path": "interface\\Deadlock Toasted.vpk"
+      },
+      "version": "1.0"
+    },
+    "dumblock_custom_icons": {
+      "id": "dumblock_custom_icons",
+      "title": "# DumbLock Custom icons",
+      "category": "interface",
+      "hero": null,
+      "type": null,
+      "author": "yoshi364",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "DumbLock Custom icons.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Makes hero icons to be in a style of yoshi364",
+        "ru": "Делаeт иконки героев в стиле yoshi364"
+      },
+      "file": {
+        "name": "DumbLock Custom icons.vpk",
+        "size": 5912033,
+        "hash": "fb3575defa1d27d19187284020d3cc1e36692ee0178c2229b14b223ee2b030c9",
+        "drive_id": "1wIM2_TcNysWzPRRycwBzthlx11jJoJcE",
+        "local_path": "interface\\DumbLock Custom icons.vpk"
+      },
+      "version": "1.0"
+    },
+    "moglock_(portrait_mod)": {
+      "id": "moglock_(portrait_mod)",
+      "title": "# Moglock (portrait mod)",
+      "category": "interface",
+      "hero": null,
+      "type": null,
+      "author": "lamarrite",
+      "last_updated": "2024-11-04",
+      "media": {
+        "preview": "Moglock (portrait mod).png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "sigmafies a couple portraits (whichever ones worked with the filter)",
+        "ru": "Изменяет некоторые портреты (те, которые работают с фильтром)"
+      },
+      "file": {
+        "name": "Moglock (portrait mod).vpk",
+        "size": 25038485,
+        "hash": "2cc94febf907d429b3cab138b54bf6426086a1da975c6ba630bf2c2e7d520829",
+        "drive_id": "18yf-RYuktzPm_zygPfyHmnfwZdS3XcHA",
+        "local_path": "interface\\Moglock (portrait mod).vpk"
+      },
+      "version": "1.0"
+    },
+    "old_minimap_icons": {
+      "id": "old_minimap_icons",
+      "title": "# old minimap icons",
+      "category": "interface",
+      "hero": null,
+      "type": null,
+      "author": "cakeeh",
+      "last_updated": "2024-09-13",
+      "media": {
+        "preview": "old minimap icons.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Returns the old minimap icons",
+        "ru": "Возвращает старые иконки на миникарте"
+      },
+      "file": {
+        "name": "old minimap icons.vpk",
+        "size": 4790913,
+        "hash": "201fe2aba983b53d0289f51a5b9c33284db82c32265bc55a135bdfd8208ec5c3",
+        "drive_id": "1tDyejdbwUJcYq_IZK56A49NfJn8xBaLg",
+        "local_path": "interface\\old minimap icons.vpk"
+      },
+      "version": "1.0"
+    },
+    "robo's_deadlock_portraits": {
+      "id": "robo's_deadlock_portraits",
+      "title": "# robo's Deadlock Portraits",
+      "category": "interface",
+      "hero": null,
+      "type": null,
+      "author": "robothegod",
+      "last_updated": "2024-10-31",
+      "media": {
+        "preview": "robo's Deadlock Portraits.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Splendid mod that replaces character hud assets with special character art by robothegod",
+        "ru": "Прекрасный мод, заменяющий элементы интерфейса персонажей на специальные арты от robothegod"
+      },
+      "file": {
+        "name": "robo's Deadlock Portraits.vpk",
+        "size": 4993802,
+        "hash": "be03d9144dc4cc61fa7669a795d09bd5d1c06fdfabb237b6c08f653ad765feae",
+        "drive_id": "1veQXK8JoA83vB6AyTXvLCtf71fZ7YEKz",
+        "local_path": "interface\\robo's Deadlock Portraits.vpk"
+      },
+      "version": "1.0"
+    },
+    "square_top_bar": {
+      "id": "square_top_bar",
+      "title": "# Square Top Bar",
+      "category": "interface",
+      "hero": null,
+      "type": null,
+      "author": "Ogr",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "square_top_bar.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "Makes the top bar square instead of rounded. A simple visual mod that changes the appearance of the UI.",
+        "ru": "Делает верхнюю панель квадратной вместо закругленной. Простой визуальный мод, изменяющий внешний вид интерфейса."
+      },
+      "file": {
+        "name": "Square Top Bar.vpk",
+        "size": 4322381,
+        "hash": "af295eb697a9d0a99b895cdcd55eeb18617d53fec2322c0002fb77ceb994c758",
+        "drive_id": "1GFsXHqcqHZIKalHeqoUUtAWsKi6nLHIs",
+        "local_path": "interface\\Square Top Bar.vpk"
+      },
+      "version": "1.0"
+    },
+    "deer's_post_processing": {
+      "id": "deer's_post_processing",
+      "title": "# deer's post processing",
+      "category": "post-processing",
+      "hero": null,
+      "type": null,
+      "author": "Community",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "deer's post processing.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "deer's post processing.vpk",
+        "size": 400424,
+        "hash": "d0f3cfdff2db017a13999b87f8e1e57cb7af41ba558c6c6beb0413bde6318a77",
+        "drive_id": "1CFQw6oZOeuaWg5NOPV0aZdOIvvbwkDqy",
+        "local_path": "post-processing\\deer's post processing.vpk"
+      },
+      "version": "1.0"
+    },
+    "lamarrite_s_post_processing": {
+      "id": "lamarrite_s_post_processing",
+      "title": "# lamarrite_s post processing",
+      "category": "post-processing",
+      "hero": null,
+      "type": null,
+      "author": "lamarrite",
+      "last_updated": "2024-10-18",
+      "media": {
+        "preview": "lamarrite_post_processing.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "lamarrite_s post processing.vpk",
+        "size": 667144,
+        "hash": "64a1959a1f8fd28a9249d8fabf9808f9c0124d68f8f384b5e7c15d706d53b35d",
+        "drive_id": "1DYxxMUqGD2dz-80nD_QrOw9iiG7Rufft",
+        "local_path": "post-processing\\lamarrite_s post processing.vpk"
+      },
+      "version": "1.0"
+    },
+    "mega's_post_processing": {
+      "id": "mega's_post_processing",
+      "title": "# Mega's post processing",
+      "category": "post-processing",
+      "hero": null,
+      "type": null,
+      "author": "megabito",
+      "last_updated": "2024-10-06",
+      "media": {
+        "preview": "Mega's post processing.png",
+        "video": null
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Mega's post processing.vpk",
+        "size": 133481,
+        "hash": "ab91918d5cd8c2f9fb38d0b2f03996a0c8feaf2174ebfcb5aedbf49cc145f39c",
+        "drive_id": "19pSv3TryK0AqeI9gRtDotHIQxPhVgr8d",
+        "local_path": "post-processing\\Mega's post processing.vpk"
+      },
+      "version": "1.0"
+    },
+    "banana_knockdown": {
+      "id": "banana_knockdown",
+      "title": "# Banana knockdown",
+      "category": "sounds",
+      "hero": null,
+      "type": null,
+      "author": "Artemon121",
+      "last_updated": "2024-11-24",
+      "media": {
+        "preview": "",
+        "video": "Banana knockdown.mp4"
+      },
+      "descriptions": {
+        "en": "Replaces the model and sound of the knockdown item with those of the anvil from Minecraft",
+        "ru": "Заменяет модель и звук предмета нокаута на молот из Minecraft"
+      },
+      "file": {
+        "name": "Banana knockdown.vpk",
+        "size": 1053237,
+        "hash": "845421bba738c095dfb158082ba3b764e7df3e409edfef2ea3ba990dbc39cec7",
+        "drive_id": "1Efz2CHiSg-ttkv3ZwYDzhkV53VVJxLvU",
+        "local_path": "sounds\\Banana knockdown.vpk"
+      },
+      "version": "1.0"
+    },
+    "ebaniy_rot_etogo_kazino": {
+      "id": "ebaniy_rot_etogo_kazino",
+      "title": "# Ebaniy rot etogo kazino",
+      "category": "sounds",
+      "hero": null,
+      "type": null,
+      "author": "InfinityJelly",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "",
+        "video": "Ebaniy rot etogo kazino.mp4"
+      },
+      "descriptions": {
+        "en": "Changes the magic carpet using sound",
+        "ru": "Изменяет звук использования волшебного ковра"
+      },
+      "file": {
+        "name": "Ebaniy rot etogo kazino.vpk",
+        "size": 1740842,
+        "hash": "0fa3805fae2ac3168f3805df5bc1b1393d867aa2a35f7242935486aa8d8aaf06",
+        "drive_id": "1zD9KlTCM8wESppyR5v0GxOnOlS_O2VXO",
+        "local_path": "sounds\\Ebaniy rot etogo kazino.vpk"
+      },
+      "version": "1.0"
+    },
+    "flashbang": {
+      "id": "flashbang",
+      "title": "# Flashbang",
+      "category": "sounds",
+      "hero": null,
+      "type": null,
+      "author": "SoupIsLumpy",
+      "last_updated": "2024-11-21",
+      "media": {
+        "preview": "",
+        "video": "Flashbang.mp4"
+      },
+      "descriptions": {
+        "en": "Flashbang sound when you get hit by melee",
+        "ru": "Звук флешбанга, когда вы получаете удар в ближнем бою"
+      },
+      "file": {
+        "name": "Flashbang.vpk",
+        "size": 2969639,
+        "hash": "dd0b20f93c1a86f634f92edca1c56d8ca4651d509a9d2fdc130b1712f6c8b1e1",
+        "drive_id": "1csaeq_6RWAXemN-Xr2fDWa9mZ9bmHpT-",
+        "local_path": "sounds\\Flashbang.vpk"
+      },
+      "version": "1.0"
+    },
+    "heavy_attack_alert": {
+      "id": "heavy_attack_alert",
+      "title": "# Heavy attack alert",
+      "category": "sounds",
+      "hero": null,
+      "type": null,
+      "author": "Community",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "",
+        "video": "Heavy attack alert.mp4"
+      },
+      "descriptions": {
+        "en": "",
+        "ru": ""
+      },
+      "file": {
+        "name": "Heavy attack alert.vpk",
+        "size": 249320,
+        "hash": "04c8c6b9b119ff76556448af74d90251bbe8f8556e38ed285538dd121c101f1b",
+        "drive_id": "1kedAlardD6Emim3rFxGWVwuSlVHkckn7",
+        "local_path": "sounds\\Heavy attack alert.vpk"
+      },
+      "version": "1.0"
+    },
+    "killstreak_sounds_with_dota_announcer": {
+      "id": "killstreak_sounds_with_dota_announcer",
+      "title": "# Killstreak sounds with Dota Announcer",
+      "category": "sounds",
+      "hero": null,
+      "type": null,
+      "author": "sojo1n",
+      "last_updated": "2024-10-2",
+      "media": {
+        "preview": "",
+        "video": "Killstreak sounds with Dota Announcer.mp4"
+      },
+      "descriptions": {
+        "en": "Merged DOTA 2 announcer killstreak sounds with new deadlock killstreak sounds",
+        "ru": "Объединяет звуки серии убийств диктора из Dota 2 с новыми звуками серии убийств Deadlock"
+      },
+      "file": {
+        "name": "Killstreak sounds with Dota Announcer.vpk",
+        "size": 3740539,
+        "hash": "d91ac0e4cd68b479cd7e37038994924658759069fdfde0e1b2a43ce1eef70b4e",
+        "drive_id": "1bqeTl3WwZDF4Km0cKOMt_Xtn7SCsAQtK",
+        "local_path": "sounds\\Killstreak sounds with Dota Announcer.vpk"
+      },
+      "version": "1.0"
+    },
+    "laugh_track_getting_denied_sounds": {
+      "id": "laugh_track_getting_denied_sounds",
+      "title": "# Laugh track getting denied sounds",
+      "category": "sounds",
+      "hero": null,
+      "type": null,
+      "author": "Marunias",
+      "last_updated": "2024-09-19",
+      "media": {
+        "preview": "",
+        "video": "Laugh track getting denied sounds.mp4"
+      },
+      "descriptions": {
+        "en": "Custom deny sound effects that add a laugh track to every deny you get",
+        "ru": "Добавляет звук смеха к каждому отрицанию, которое вы получаете"
+      },
+      "file": {
+        "name": "Laugh track getting denied sounds.vpk",
+        "size": 311,
+        "hash": "8ec722d5a3c4306401f9bad90526a0db41d212da380c68148ff647cb6dc90b17",
+        "drive_id": "1H98OGgXqKnNm3tglcRJ8YCnYipQKi4SY",
+        "local_path": "sounds\\Laugh track getting denied sounds.vpk"
+      },
+      "version": "1.0"
+    },
+    "musical_modification_by_rymskiy": {
+      "id": "musical_modification_by_rymskiy",
+      "title": "# Musical Modification by RYMSKIY",
+      "category": "sounds",
+      "hero": null,
+      "type": null,
+      "author": "RYMSKIY",
+      "last_updated": "2024-10-12",
+      "media": {
+        "preview": "",
+        "video": "Musical Modification by RYMSKIY.mp4"
+      },
+      "descriptions": {
+        "en": "Changes the muscic in the game",
+        "ru": "Изменяет музыку в игре"
+      },
+      "file": {
+        "name": "Musical Modification by RYMSKIY.vpk",
+        "size": 33213358,
+        "hash": "5534ea01783133b449ecf35604b4b1dce539965d006669065bdb398235b4804d",
+        "drive_id": "1GdZRA7MA4BWkzOydy5zErPnR0-lfoZXQ",
+        "local_path": "sounds\\Musical Modification by RYMSKIY.vpk"
+      },
+      "version": "1.0"
+    },
+    "quake_live_champions_sound_mod": {
+      "id": "quake_live_champions_sound_mod",
+      "title": "# Quake Live Champions Sound Mod",
+      "category": "sounds",
+      "hero": null,
+      "type": null,
+      "author": "damian_ow",
+      "last_updated": "2024-10-30",
+      "media": {
+        "preview": "",
+        "video": "Quake LiveChampions Sound Mod.mp4"
+      },
+      "descriptions": {
+        "en": "Sound mod that adds sound effects to different parts of common gameplay by Quake Live Champions. ",
+        "ru": "Звуковой мод, добавляющий звуковые эффекты из Quake Live Champions в различные части игрового процесса"
+      },
+      "file": {
+        "name": "Quake Live Champions Sound Mod.vpk",
+        "size": 489592,
+        "hash": "9c096f66b200e1cd0953b4e202b1b8f18daf117ff12248b8f87a7fee49c30b99",
+        "drive_id": "1PUP4iE-7F6kS9-6ie__vbUiMENM0ZIY0",
+        "local_path": "sounds\\Quake Live Champions Sound Mod.vpk"
+      },
+      "version": "1.0"
+    },
+    "resampled_refresher_sound": {
+      "id": "resampled_refresher_sound",
+      "title": "# Resampled Refresher Sound",
+      "category": "sounds",
+      "hero": null,
+      "type": null,
+      "author": "Funee",
+      "last_updated": "2024-11-07",
+      "media": {
+        "preview": "",
+        "video": "Resampled Refresher Sound.mp4"
+      },
+      "descriptions": {
+        "en": "Makes the new Refresher sound.",
+        "ru": "Добавляет новый звук обновления"
+      },
+      "file": {
+        "name": "Resampled Refresher Sound.vpk",
+        "size": 556024,
+        "hash": "5a0b18a12f4a9a50c0b385038cbeca7ae7ee256d5ff9229b22913ad8f5e9232f",
+        "drive_id": "12ZN4hf7o9O__Zoiuz261TZIX6me9qe0q",
+        "local_path": "sounds\\Resampled Refresher Sound.vpk"
+      },
+      "version": "1.0"
+    },
+    "risk_of_rain_music_pack": {
+      "id": "risk_of_rain_music_pack",
+      "title": "# Risk of Rain Music Pack",
+      "category": "sounds",
+      "hero": null,
+      "type": null,
+      "author": "lurkeww",
+      "last_updated": "2024-11-24",
+      "media": {
+        "preview": "",
+        "video": "Risk of Rain Music Pack.mp4"
+      },
+      "descriptions": {
+        "en": "A Risk of Rain music mod for Deadlock!",
+        "ru": "Музыкальный мод Risk of Rain для Deadlock!"
+      },
+      "file": {
+        "name": "Risk of Rain Music Pack.vpk",
+        "size": 131536837,
+        "hash": "e2836353525f27f7239d588d2c5d0b9884ae50649862bf0c14eae165ae1eec30",
+        "drive_id": "113_ew-v2ny87KckZL8zeCKYL7XZeR4t2",
+        "local_path": "sounds\\Risk of Rain Music Pack.vpk"
+      },
+      "version": "1.0"
+    },
+    "sounds_of_death": {
+      "id": "sounds_of_death",
+      "title": "# Sounds of death",
+      "category": "sounds",
+      "hero": null,
+      "type": null,
+      "author": "Batronen",
+      "last_updated": "2024-03-21",
+      "media": {
+        "preview": "",
+        "video": "Sounds of death.mp4"
+      },
+      "descriptions": {
+        "en": "Makes sounds death more dramatic",
+        "ru": "Делает звуки смерти более драматичными"
+      },
+      "file": {
+        "name": "Sounds of death.vpk",
+        "size": 313021,
+        "hash": "e2e1048614aa5a24591c8e04abd598a4e488575891065897d767500f92e5d30d",
+        "drive_id": "1F5EuHyjOgNJ7t6iKZKjQzOcHEreFvBnq",
+        "local_path": "sounds\\Sounds of death.vpk"
+      },
+      "version": "1.0"
+    },
+    "the_silly_killsounds": {
+      "id": "the_silly_killsounds",
+      "title": "# The Silly Killsounds",
+      "category": "sounds",
+      "hero": null,
+      "type": null,
+      "author": "Funee",
+      "last_updated": "2024-11-13",
+      "media": {
+        "preview": "",
+        "video": "The Silly Killsounds.mp4"
+      },
+      "descriptions": {
+        "en": "Playes the funny random sounds when you kill someone",
+        "ru": "Проигрывает забавные случайные звуки при убийстве"
+      },
+      "file": {
+        "name": "The Silly Killsounds.vpk",
+        "size": 18232342,
+        "hash": "81bbf095954f17b4a59ce0e62234738db309b455a984a066811f9ed804b99add",
+        "drive_id": "1FLBsjG_Mb4I33F-hRPcLnNJY1vhimPo8",
+        "local_path": "sounds\\The Silly Killsounds.vpk"
+      },
+      "version": "1.0"
+    }
+  }
+}

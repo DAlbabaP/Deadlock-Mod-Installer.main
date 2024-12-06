@@ -1,0 +1,55 @@
+{
+  "categories": {
+    "heroes": {
+      "id": "heroes",
+      "display_name": {
+        "en": "Heroes",
+        "ru": "Герои"
+      },
+      "subcategories": {
+        "skins": {
+          "id": "skins",
+          "display_name": {
+            "en": "Skins",
+            "ru": "Скины"
+          }
+        },
+        "hero_mods": {
+          "id": "hero_mods",
+          "display_name": {
+            "en": "Hero Mods",
+            "ru": "Модификации героя"
+          }
+        }
+      }
+    },
+    "interface": {
+      "id": "interface",
+      "display_name": {
+        "en": "Interface",
+        "ru": "Интерфейс"
+      }
+    },
+    "sounds": {
+      "id": "sounds",
+      "display_name": {
+        "en": "Sounds",
+        "ru": "Звуки"
+      }
+    },
+    "game": {
+      "id": "game",
+      "display_name": {
+        "en": "Game",
+        "ru": "Игра"
+      }
+    },
+    "post_processing": {
+      "id": "post_processing",
+      "display_name": {
+        "en": "Post-processing",
+        "ru": "Пост-обработка"
+      }
+    }
+  }
+}

@@ -1,0 +1,1874 @@
+{
+    "43 ratio healthbar fix": {
+        "title": "# 43 ratio healthbar fix",
+        "author": "sir_patyna_4775",
+        "last_updated": "2024-09-14",
+        "media": {
+            "preview": "43 ratio healthbar fix.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "This mod fixes health bar by restoring it in all 4:3 resolutions",
+            "ru": "Этот мод исправляет полоску здоровья, восстанавливая её для всех разрешений 4:3"
+        }
+    },
+    "4x3 fix shop": {
+        "title": "# 4x3 fix shop",
+        "author": "Community",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "4x3 fix shop.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Abrams Bull": {
+        "title": "# Abrams Bull",
+        "author": "Ahzealion",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "abrams_bull.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Abrams Doomguy": {
+        "title": "# Abrams Doomguy",
+        "author": "thekekman",
+        "last_updated": "2024-11-29",
+        "media": {
+            "preview": "Abrams Doomguy.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Turns Abrams into a Doomguy",
+            "ru": "Превращает Abrams в Doomguy"
+        }
+    },
+    "Abrams Dripbrams": {
+        "title": "# Abrams Dripbrams",
+        "author": "Wotsoon",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "Abrams Dripbrams.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Abrams GUBAMI": {
+        "title": "# Abrams GUBAMI",
+        "author": "asboind",
+        "last_updated": "2024-11-08",
+        "media": {
+            "preview": "abrams_gubami.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Abrams Hellboy": {
+        "title": "# Abrams Hellboy",
+        "author": "_modu",
+        "last_updated": "2024-11-02",
+        "media": {
+            "preview": "abrams_hellboy.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Makes Abrams look like Hellboy",
+            "ru": "Делает Abrams похожим на Хеллбоя"
+        }
+    },
+    "Abrams Ivams": {
+        "title": "# Abrams Ivams",
+        "author": "thekekman",
+        "last_updated": "2024-11-28",
+        "media": {
+            "preview": "Abrams Ivams.jpg",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Mix Abrams and Ivy",
+            "ru": ""
+        }
+    },
+    "Abrams Space Marine": {
+        "title": "# Abrams Space Marine",
+        "author": "gigawattgigwhat",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "abrams_space_marine.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Abrams ZaHando": {
+        "title": "# Abrams ZaHando",
+        "author": "magicai",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "abrams_zahando.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Among Us (HUD mod)": {
+        "title": "# Among Us (HUD mod)",
+        "author": "MrTerere",
+        "last_updated": "2024-11-09",
+        "media": {
+            "preview": "Among Us (HUD mod).png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Make all portaits look like Among Us characters",
+            "ru": "Делает все портреты похожими на персонажей Among Us"
+        }
+    },
+    "And his music was electric": {
+        "title": "# And his music was electric",
+        "author": "SoupIsLumpy",
+        "last_updated": "2024-10-24",
+        "media": {
+            "preview": "",
+            "video": "And his music was electric.mp4"
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Banana knockdown": {
+        "title": "# Banana knockdown",
+        "author": "Artemon121",
+        "last_updated": "2024-11-24",
+        "media": {
+            "preview": "",
+            "video": "Banana knockdown.mp4"
+        },
+        "descriptions": {
+            "en": "Replaces the model and sound of the knockdown item with those of the anvil from Minecraft",
+            "ru": "Заменяет модель и звук предмета нокаута на молот из Minecraft"
+        }
+    },
+    "Bebop Delivery": {
+        "title": "# Bebop Delivery",
+        "author": "Ahzelion",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "bebop_delivery.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Bebop Neon Prime skin": {
+        "title": "# Bebop Neon Prime skin",
+        "author": "Titant",
+        "last_updated": "2024-09-18",
+        "media": {
+            "preview": "Bebop Neon Prime skin.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Gives Bebop his peak Neon Prime look back",
+            "ru": "Возвращает Bebop его вид из Neon Prime"
+        }
+    },
+    "Better Seven Ult Sound": {
+        "title": "# Better Seven Ult Sound",
+        "author": "robothegod",
+        "last_updated": "2024-09-29",
+        "media": {
+            "preview": "",
+            "video": "Better Seven Ult Sound.mp4"
+        },
+        "descriptions": {
+            "en": "Cool mod changed the ult sound to have cool lightning sounds in it.",
+            "ru": ""
+        }
+    },
+    "Better dot add-on": {
+        "title": "# Better dot add-on",
+        "author": "sojo1n",
+        "last_updated": "2024-11-24",
+        "media": {
+            "preview": "Better dot add-on.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "A simple mod that slightly changes the position of the crosshair dot relative to its outline. It also changes the size of the dot to normal and makes it round.",
+            "ru": "Простой мод, слегка изменяющий положение точки прицела относительно её контура. Также меняет размер точки на нормальный и делает её круглой"
+        }
+    },
+    "CSGO bomb sound": {
+        "title": "# CSGO bomb sound",
+        "author": "sirsyorrz",
+        "last_updated": "2024-09-11",
+        "media": {
+            "preview": "",
+            "video": "CSGO bomb sound.mp4"
+        },
+        "descriptions": {
+            "en": "CSGO bomb being planted and exploding sound effect added to bebop bomb #2",
+            "ru": "Звуковой эффект взрыва бомбы из CSGO добавлен к бомбе Bebop #2"
+        }
+    },
+    "Color-blind friendly": {
+        "title": "# Color-blind friendly",
+        "author": "RedMser",
+        "last_updated": "2024-11-05",
+        "media": {
+            "preview": "color_blind_friendly.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Addon and turned the friendly troopers blue instead of green.",
+            "ru": "Аддон, который окрашивает союзных солдат в синий вместо зелёного"
+        }
+    },
+    "Crazy Wrecker": {
+        "title": "# Crazy Wrecker",
+        "author": "Community",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Deadlock Relit": {
+        "title": "# Deadlock Relit",
+        "author": "Tianes",
+        "last_updated": "2024-10-09",
+        "media": {
+            "preview": "Deadlock Relit.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "This mod replaces all of the heroes' Loadout screen environments, as well as their shop environments",
+            "ru": "Этот мод заменяет все окружения экранов загрузки героев, а также их вид в магазине"
+        }
+    },
+    "Deadlock Toasted": {
+        "title": "# Deadlock Toasted",
+        "author": "ToastyGhostey",
+        "last_updated": "2024-10-29",
+        "media": {
+            "preview": "Deadlock Toasted.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Replaces icons with the styled one by ToastyGhostey",
+            "ru": "Этот мод заменяет все окружения экранов загрузки героев, а также их окружения в магазине"
+        }
+    },
+    "Demo abram": {
+        "title": "# Demo abram",
+        "author": "itjetto",
+        "last_updated": "2024-09-11",
+        "media": {
+            "preview": "",
+            "video": "Demo abram.mp4"
+        },
+        "descriptions": {
+            "en": "Replacing abram charging sound with tf2 demoman charging sound. also replace the wall slam and ground slam sound. ",
+            "ru": "Заменяет звук разгона Abrams на звук разгона Demoman из Team Fortress 2. Также заменяет звуки удара о стену и удар о землю"
+        }
+    },
+    "Dota 2 Juggernaut voice for Abrams": {
+        "title": "# Dota 2 Juggernaut voice for Abrams",
+        "author": "girl_rotting",
+        "last_updated": "2024-09-26",
+        "media": {
+            "preview": "",
+            "video": "Dota 2 Juggernaut voice for Abrams.mp4"
+        },
+        "descriptions": {
+            "en": "Gives Abrams VA of Juggernaut from Dota 2",
+            "ru": "Дает Abrams голос Juggernaut из Dota 2"
+        }
+    },
+    "DumbLock Custom icons": {
+        "title": "# DumbLock Custom icons",
+        "author": "yoshi364",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "DumbLock Custom icons.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Makes hero icons to be in a style of yoshi364",
+            "ru": "Делаeт иконки героев в стиле yoshi364"
+        }
+    },
+    "Dynamo Dunkamo": {
+        "title": "# Dynamo Dunkamo",
+        "author": "Damonj17",
+        "last_updated": "2024-11-05",
+        "media": {
+            "preview": "dynamo_dunkamo.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Mod that makes Dynamo's torso a basketball, adds a headband, and adds the Space Jam theme to his Ultimate ability.",
+            "ru": "Мод, который превращает торс Dynamo в баскетбольный мяч, добавляет повязку на голову и тему Space Jam к его ультимативной способности"
+        }
+    },
+    "Dynamo ult sound": {
+        "title": "# Dinamo ult sound",
+        "author": "MrTerere",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "",
+            "video": "Dinamo ult sound.mp4"
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Ebaniy rot etogo kazino": {
+        "title": "# Ebaniy rot etogo kazino",
+        "author": "InfinityJelly",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "",
+            "video": "Ebaniy rot etogo kazino.mp4"
+        },
+        "descriptions": {
+            "en": "Changes the magic carpet using sound",
+            "ru": "Изменяет звук использования волшебного ковра"
+        }
+    },
+    "Flashbang": {
+        "title": "# Flashbang",
+        "author": "SoupIsLumpy",
+        "last_updated": "2024-11-21",
+        "media": {
+            "preview": "",
+            "video": "Flashbang.mp4"
+        },
+        "descriptions": {
+            "en": "Flashbang sound when you get hit by melee",
+            "ru": "Звук флешбанга, когда вы получаете удар в ближнем бою"
+        }
+    },
+    "HAZE sounds": {
+        "title": "# HAZE sounds",
+        "author": "X1kkan",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "",
+            "video": "HAZE sounds.mp4"
+        },
+        "descriptions": {
+            "en": "Funny soundpack for Haze skills",
+            "ru": "Забавный набор звуков для способностей Haze"
+        }
+    },
+    "Hawk tuah charged arrows": {
+        "title": "# Hawk tuah charged arrows",
+        "author": "taskimaiden",
+        "last_updated": "2024-09-11",
+        "media": {
+            "preview": "",
+            "video": "Hawk tuah charged arrows.mp4"
+        },
+        "descriptions": {
+            "en": "absolute cinema",
+            "ru": "Абсолютное кино"
+        }
+    },
+    "Haze Ball": {
+        "title": "# Haze Ball",
+        "author": "tiredlink_",
+        "last_updated": "2024-11-16",
+        "media": {
+            "preview": "haze_ball.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Makes souls ball into a hazeball",
+            "ru": "Превращает сферу душ в голову Haze"
+        }
+    },
+    "Haze Checkmate": {
+        "title": "# Haze Checkmate",
+        "author": "X1kkan",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "haze_checkmate.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Haze Ivyaze": {
+        "title": "# Haze Ivyaze",
+        "author": "thekekman",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "Haze Ivyaze.jpg",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Mix Haze with Ivy",
+            "ru": "Смешивает Haze с Ivy"
+        }
+    },
+    "Haze Low Poly v1": {
+        "title": "# Haze Low Poly v1",
+        "author": "dirtkiller23",
+        "last_updated": "2024-09-18",
+        "media": {
+            "preview": "Haze Low Poly v1.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Replaces haze on her's low poly model from NeonPrime",
+            "ru": "Заменяет Haze на её низкополигональную модель из NeonPrime"
+        }
+    },
+    "Haze Red": {
+        "title": "# Haze Red",
+        "author": "Libera",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "haze_red.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Haze VOIDWALKER": {
+        "title": "# Haze VOIDWALKER",
+        "author": "Hoxdolum",
+        "last_updated": "2024-11-26",
+        "media": {
+            "preview": "haze_voidwalker.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Turns Haze into a Wraith Voidwalker skin from Apex Legends",
+            "ru": "Превращает Haze в образ Wraith Voidwalker из Apex Legends"
+        }
+    },
+    "Haze black+white": {
+        "title": "# Haze black+white",
+        "author": "TheEloThief",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "haze_black_white.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Haze gold": {
+        "title": "# Haze gold",
+        "author": "Libera",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "haze_gold.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Haze silver": {
+        "title": "# Haze silver",
+        "author": "Libera",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "haze_silver.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Heavy attack alert": {
+        "title": "# Heavy attack alert",
+        "author": "Community",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "",
+            "video": "Heavy attack alert.mp4"
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "I'm not gonna sugarcoat it": {
+        "title": "# I'm not gonna sugarcoat it",
+        "author": "sonambulacansada",
+        "last_updated": "2024-11-17",
+        "media": {
+            "preview": "",
+            "video": "I'm not gonna sugarcoat it.mp4"
+        },
+        "descriptions": {
+            "en": "Changes 1 skiil sound",
+            "ru": "Изменяет звук первой способности"
+        }
+    },
+    "Infernus Black+White": {
+        "title": "# Infernus Black+White",
+        "author": "TheEloThief",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "infernus_black_white.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Infernus Scoutfernus": {
+        "title": "# Infernus Scoutfernus",
+        "author": "tiredlink_",
+        "last_updated": "2024-11-23",
+        "media": {
+            "preview": "infernus_scoutfernus.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Makes Infenus to be Scout from Team Fortress 2",
+            "ru": "Превращает Infenus в Scout из Team Fortress 2"
+        }
+    },
+    "Interloper": {
+        "title": "# Interloper",
+        "author": "Community",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "interloper.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Turns the shadows on the map into Interloper",
+            "ru": "Превращает тени на карте в Interloper"
+        }
+    },
+    "Ivy Gardener": {
+        "title": "# Ivy Gardener",
+        "author": "Ahzelion",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "ivy_gardener.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Ivy Kali": {
+        "title": "# Ivy Kali",
+        "author": "lamarrite",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "ivy_kali.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Ivy Low Poly": {
+        "title": "# Ivy Low Poly",
+        "author": "gigawattgigwhat",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "ivy_low_poly.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Ivy's Ride of the Valkyries": {
+        "title": "# Ivy's Ride of the Valkyries",
+        "author": "AshnakAGQ",
+        "last_updated": "2024-10-11",
+        "media": {
+            "preview": "",
+            "video": "Ivy's Ride of the Valkyries.mp4"
+        },
+        "descriptions": {
+            "en": "Change the sound during Ivy's Ult to Richard Wagner's Ride of the Valkyries",
+            "ru": "Изменяет звук во время ультимативной способности Ivy на «Полёт Валькирий» Рихарда Вагнера"
+        }
+    },
+    "Jaws and Krill": {
+        "title": "# Jaws and Krill",
+        "author": "Community",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "",
+            "video": "Jaws and Krill.mp4"
+        },
+        "descriptions": {
+            "en": "Changes 2 skill sound into Jaws OST",
+            "ru": "Заменяет звук второй способности на саундтрек из фильма Челюсти"
+        }
+    },
+    "Just an owl drone": {
+        "title": "# Just an owl drone",
+        "author": "Community",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "just_an_owl_drone.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Kelvin amazon employer": {
+        "title": "# Kelvin amazon employer",
+        "author": "Ahzelion",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "kelvin_amazon_employer.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Killstreak sounds with Dota Announcer": {
+        "title": "# Killstreak sounds with Dota Announcer",
+        "author": "sojo1n",
+        "last_updated": "2024-10-2",
+        "media": {
+            "preview": "",
+            "video": "Killstreak sounds with Dota Announcer.mp4"
+        },
+        "descriptions": {
+            "en": "Merged DOTA 2 announcer killstreak sounds with new deadlock killstreak sounds",
+            "ru": "Объединяет звуки серии убийств диктора из Dota 2 с новыми звуками серии убийств Deadlock"
+        }
+    },
+    "Komm,susser Tod": {
+        "title": "# Komm,susser Tod",
+        "author": "samabo",
+        "last_updated": "2024-11-12",
+        "media": {
+            "preview": "",
+            "video": "Komm,susser Tod.mp4"
+        },
+        "descriptions": {
+            "en": "WE'RE STARTING THE THIRD IMPACT",
+            "ru": "WE'RE STARTING THE THIRD IMPACT"
+        }
+    },
+    "Lady Geist Date": {
+        "title": "# Lady Geist Date",
+        "author": "dogofthelob",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "lady_geist_date.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Lady Geist Fairy": {
+        "title": "# Lady Geist Fairy",
+        "author": "quazlee",
+        "last_updated": "2024-11-22",
+        "media": {
+            "preview": "lady_geist_fairy.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "This mod is a Model Replacement for Lady Geist. It Replaces her with the Great Fairy from The Legend of Zelda: Hyrule Warriors.",
+            "ru": "Этот мод заменяет модель Lady Geist на Великую Фею из The Legend of Zelda: Hyrule Warriors"
+        }
+    },
+    "Lady Geist Green Geist": {
+        "title": "# Lady Geist Green Geist",
+        "author": "minenightmare",
+        "last_updated": "2024-15-11",
+        "media": {
+            "preview": "lady_geist_green_geist.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Green version of that Red Geist",
+            "ru": "Зелёная версия RemeGeist"
+        }
+    },
+    "Lady Geist Rainbow": {
+        "title": "# Lady Geist Rainbow",
+        "author": "uglycoal",
+        "last_updated": "2024-09-10",
+        "media": {
+            "preview": "lady_geist_rainbow.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Recolors Geist's hair into a rainbow dash",
+            "ru": "Перекрашивает волосы Geist в радужные цвета"
+        }
+    },
+    "Lady Geist Remgeist": {
+        "title": "# Lady Geist Remgeist",
+        "author": "minenightmare",
+        "last_updated": "2024-11-13",
+        "media": {
+            "preview": "lady_geist_remgeist.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Lady Geist Short": {
+        "title": "# Lady Geist Short",
+        "author": "Arsinssmith",
+        "last_updated": "2024-11-14",
+        "media": {
+            "preview": "lady_geist_short.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Lady Gaist but clother a little shorter",
+            "ru": "Lady Geist, но одежда немного короче"
+        }
+    },
+    "Lash Belash": {
+        "title": "# Lash Belash",
+        "author": "gigawattgigwhat",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "lash_belash.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Lash Lashton Hale": {
+        "title": "# Lash Lashton Hale",
+        "author": "ohpahn",
+        "last_updated": "2024-12-01",
+        "media": {
+            "preview": "Lash Lashton Hale.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Combines Lash and Saxton Hale from Team Fortress 2 ",
+            "ru": "Объединяет Lash и Saxton Hale из Team Fortress 2"
+        }
+    },
+    "Lash Lashton Hale no Tshirt": {
+        "title": "# Lash Lashton Hale no Tshirt",
+        "author": "ohpahn",
+        "last_updated": "2024-12-01",
+        "media": {
+            "preview": "Lash Lashton Hale no Tshirt.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Mod varioation without tshirt",
+            "ru": "Вариант мода без футболки"
+        }
+    },
+    "Lash Megalodon": {
+        "title": "# Lash Megalodon",
+        "author": "klabber",
+        "last_updated": "2024-11-28",
+        "media": {
+            "preview": "Lash Megalodon.jpg",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Turns Lash into a Megaloon skin from Fortnite",
+            "ru": "Превращает Lash в скин Megaloon из Fortnite"
+        }
+    },
+    "Lash Yakuza": {
+        "title": "# Lash Yakuza",
+        "author": "akuma2706",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "lash_yakuza.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Just a reskin to make Lash look like a Yakuza",
+            "ru": ""
+        }
+    },
+    "Laugh track getting denied sounds": {
+        "title": "# Laugh track getting denied sounds",
+        "author": "Marunias",
+        "last_updated": "2024-09-19",
+        "media": {
+            "preview": "",
+            "video": "Laugh track getting denied sounds.mp4"
+        },
+        "descriptions": {
+            "en": "Custom deny sound effects that add a laugh track to every deny you get",
+            "ru": "Добавляет звук смеха к каждому отрицанию, которое вы получаете"
+        }
+    },
+    "McGinnis Engineer": {
+        "title": "# McGinnis Engineer",
+        "author": "Ahzelion",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "mcginnis_engineer.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "McGinnis Paw": {
+        "title": "# McGinnis Paw",
+        "author": "taylorthedog",
+        "last_updated": "2024-11-10",
+        "media": {
+            "preview": "mcginnis_paw.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "It changes the the tread on her boots to be paw beans configuration.",
+            "ru": "Меняет рисунок подошвы на её ботинках на конфигурацию в виде отпечатков лап"
+        }
+    },
+    "McGinnis Red": {
+        "title": "# McGinnis Red",
+        "author": "Ahzelion",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "mcginnis_red.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Mega's post processing": {
+        "title": "# Mega's post processing",
+        "author": "megabito",
+        "last_updated": "2024-10-06",
+        "media": {
+            "preview": "Mega's post processing.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Mirage_s ult sound": {
+        "title": "# Mirage_s ult sound",
+        "author": "Community",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "mirage_s_ult_sound.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Mo and Krill Ivy and Ivy": {
+        "title": "# Mo and Krill Ivy and Ivy",
+        "author": "thekekman",
+        "last_updated": "2024-11-28",
+        "media": {
+            "preview": "Mo and Krill Ivy and Ivy.jpg",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Mix Mo and Mo with Ivy",
+            "ru": "Смешивает Mo и Krill с Ivy"
+        }
+    },
+    "Mo and Krill Krill and Mo": {
+        "title": "# Mo and Krill Krill and Mo",
+        "author": "Ahze",
+        "last_updated": "2024-10-10",
+        "media": {
+            "preview": "mo_and_krill_krill_and_mo.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Swaps Mo and Krill's models",
+            "ru": "Меняет местами модели Mo и Krill"
+        }
+    },
+    "Mo and Krill Mo and Mo": {
+        "title": "# Mo and Krill Mo and Mo",
+        "author": "Ahze",
+        "last_updated": "2024-10-21",
+        "media": {
+            "preview": "mo_and_krill_mo_and_mo.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Makes Krill look like Mo",
+            "ru": "Делает Krill похожим на Mo"
+        }
+    },
+    "Mo and Krill Shark": {
+        "title": "# Mo and Krill Shark",
+        "author": "Pinewabble",
+        "last_updated": "2024-11-16",
+        "media": {
+            "preview": "mo_and_krill_shark.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Turn Mo and Krill into shark and diver",
+            "ru": "Превращает Mo и Krill в акулу и дайвера"
+        }
+    },
+    "Moglock (portrait mod)": {
+        "title": "# Moglock (portrait mod)",
+        "author": "lamarrite",
+        "last_updated": "2024-11-04",
+        "media": {
+            "preview": "Moglock (portrait mod).png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "sigmafies a couple portraits (whichever ones worked with the filter)",
+            "ru": "Изменяет некоторые портреты (те, которые работают с фильтром)"
+        }
+    },
+    "Musical Modification by RYMSKIY": {
+        "title": "# Musical Modification by RYMSKIY",
+        "author": "RYMSKIY",
+        "last_updated": "2024-10-12",
+        "media": {
+            "preview": "",
+            "video": "Musical Modification by RYMSKIY.mp4"
+        },
+        "descriptions": {
+            "en": "Changes the muscic in the game",
+            "ru": "Изменяет музыку в игре"
+        }
+    },
+    "My Love Mine All Mine": {
+        "title": "# My Love Mine All Mine",
+        "author": "SoupIsLumpy",
+        "last_updated": "2024-11-03",
+        "media": {
+            "preview": "",
+            "video": "My Love Mine All Mine.mp4"
+        },
+        "descriptions": {
+            "en": "Adds Mitski's \"My Love Mine All Mine\" to sevens ult",
+            "ru": "Добавляет песню Mitski \"My Love Mine All Mine\" к ультимативной способности Seven"
+        }
+    },
+    "Neon Prime HUD": {
+        "title": "# Neon Prime HUD",
+        "author": "cakeeh",
+        "last_updated": "2024-10-27",
+        "media": {
+            "preview": "Neon Prime HUD.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Returns the HUD from Neon Prime",
+            "ru": "Возвращает интерфейс из Neon Prime"
+        }
+    },
+    "NeonPrime Shop": {
+        "title": "# NeonPrime Shop",
+        "author": "taskimaiden",
+        "last_updated": "2024-09-17",
+        "media": {
+            "preview": "neon_prime_shop.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Return the shop model from NeonPrime",
+            "ru": "Возвращает модель магазина из NeonPrime"
+        }
+    },
+    "Orange Lane Restored": {
+        "title": "# Orange Lane Restored",
+        "author": "Titant",
+        "last_updated": "2024-09-13",
+        "media": {
+            "preview": "Orange Lane Restored.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Replaces the green lane with the orange lane from the previous versions of Deadlock",
+            "ru": "Заменяет зелёную линию на оранжевую из предыдущих версий Deadlock"
+        }
+    },
+    "Paradox Bikinidox": {
+        "title": "# Paradox Bikinidox",
+        "author": "Community",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "paradox_bikinidox.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Paradox Bunnydox": {
+        "title": "# Paradox Bunnydox",
+        "author": "snr.quak ",
+        "last_updated": "2024-11-13",
+        "media": {
+            "preview": "paradox_bunnydox.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "A mod for Paradox which gives her a bunnysuit",
+            "ru": "Мод для Paradox, добавляющий ей костюм зайчика"
+        }
+    },
+    "Paradox Ivydox": {
+        "title": "# Paradox Ivydox",
+        "author": "noviktow",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "paradox_ivydox.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Paradox Light Pyradox": {
+        "title": "# Paradox Light Pyradox",
+        "author": "quazlee",
+        "last_updated": "2024-11-18",
+        "media": {
+            "preview": "paradox_light_pyradox.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "yra from Xenoblade Chronicles 2 for Paradox with light knockers.",
+            "ru": "Pyra из Xenoblade Chronicles 2 для Paradox с облегченными аксессуарами"
+        }
+    },
+    "Paradox Pyradox": {
+        "title": "# Paradox Pyradox",
+        "author": "quazlee",
+        "last_updated": "2024-11-18",
+        "media": {
+            "preview": "paradox_pyradox.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Pyra from Xenoblade Chronicles 2 for Paradox.",
+            "ru": "Pyra из Xenoblade Chronicles 2 для Paradox"
+        }
+    },
+    "Pocket Gold": {
+        "title": "# Pocket Gold",
+        "author": "Vttoc",
+        "last_updated": "2024-11-30",
+        "media": {
+            "preview": "Pocket Gold.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Makes Pocket look gold",
+            "ru": "Делает Pocket золотым"
+        }
+    },
+    "Pocket Holiday over": {
+        "title": "# Pocket Holiday over",
+        "author": "gigawattgigwhat",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "pocket_holiday_over.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Pocket Loona": {
+        "title": "# Pocket Loona",
+        "author": "gigawattgigwhat",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "pocket_loona.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Quake Live Champions Sound Mod": {
+        "title": "# Quake Live Champions Sound Mod",
+        "author": "damian_ow",
+        "last_updated": "2024-10-30",
+        "media": {
+            "preview": "",
+            "video": "Quake LiveChampions Sound Mod.mp4"
+        },
+        "descriptions": {
+            "en": "Sound mod that adds sound effects to different parts of common gameplay by Quake Live Champions. ",
+            "ru": "Звуковой мод, добавляющий звуковые эффекты из Quake Live Champions в различные части игрового процесса"
+        }
+    },
+    "Rammstein Sonne": {
+        "title": "# Rammstein Sonne",
+        "author": "DeltaC7",
+        "last_updated": "2024-10-22",
+        "media": {
+            "preview": "",
+            "video": "Rammstein Sonne.mp4"
+        },
+        "descriptions": {
+            "en": "Replaces the ultimate sound for Seven with the very famous part of Rammstein's Sonne.",
+            "ru": "Заменяет звук ультимативной способности Seven на знаменитую часть песни Rammstein \"Sonne\""
+        }
+    },
+    "Resampled Refresher Sound": {
+        "title": "# Resampled Refresher Sound",
+        "author": "Funee",
+        "last_updated": "2024-11-07",
+        "media": {
+            "preview": "",
+            "video": "Resampled Refresher Sound.mp4"
+        },
+        "descriptions": {
+            "en": "Makes the new Refresher sound.",
+            "ru": "Добавляет новый звук обновления"
+        }
+    },
+    "Risk of Rain Music Pack": {
+        "title": "# Risk of Rain Music Pack",
+        "author": "lurkeww",
+        "last_updated": "2024-11-24",
+        "media": {
+            "preview": "",
+            "video": "Risk of Rain Music Pack.mp4"
+        },
+        "descriptions": {
+            "en": "A Risk of Rain music mod for Deadlock!",
+            "ru": "Музыкальный мод Risk of Rain для Deadlock!"
+        }
+    },
+    "Seven Halloween": {
+        "title": "# Seven Halloween",
+        "author": "gigawattgigwhat",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "seven_halloween.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Seven Low Poly": {
+        "title": "# Seven Low Poly",
+        "author": "gigawattgigwhat",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "seven_low_poly.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Seven NeonPrime": {
+        "title": "# Seven NeonPrime",
+        "author": "Wuzzterfuzz",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "seven_neon_prime.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Seven gigavatt": {
+        "title": "# Seven gigavatt",
+        "author": "gigawattgigwhat",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "seven_gigavatt.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Shiv Bald": {
+        "title": "# Shiv Bald",
+        "author": "uglycoal",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "shiv_bald.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Shiv Infernus Cap": {
+        "title": "# Shiv Infernus Cap",
+        "author": "The 2fort Cremator",
+        "last_updated": "2024-11-30",
+        "media": {
+            "preview": "Shiv Infernus Cap.jpg",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Shiv with Infenus cap",
+            "ru": "Shiv в кепке Infernus"
+        }
+    },
+    "Shiv Long hair": {
+        "title": "# Shiv Long hair",
+        "author": "uglycoal",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "shiv_long_hair.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Shiv Neon Prime": {
+        "title": "# Shiv Neon Prime",
+        "author": "lamarrite",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "shiv_neon_prime.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Shiv V": {
+        "title": "# Shiv V1",
+        "author": "gigawattgigwhat",
+        "last_updated": "2024-11-13",
+        "media": {
+            "preview": "shiv_v.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Turns Shiv into a V1 from Ultrakill",
+            "ru": ""
+        }
+    },
+    "Sounds of death": {
+        "title": "# Sounds of death",
+        "author": "Batronen",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "",
+            "video": "Sounds of death.mp4"
+        },
+        "descriptions": {
+            "en": "Makes sounds death more dramatic",
+            "ru": "Делает звуки смерти более драматичными"
+        }
+    },
+    "Square Top Bar": {
+        "title": "# Square Top Bar",
+        "author": "Ogr",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "square_top_bar.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Makes the top bar square instead of rounded. A simple visual mod that changes the appearance of the UI.",
+            "ru": "Делает верхнюю панель квадратной вместо закругленной. Простой визуальный мод, изменяющий внешний вид интерфейса."
+        }
+    },
+    "Svoi Talon": {
+        "title": "# Svoi Talon",
+        "author": "thekekman",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "svoi_talon.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "TF2 turret sound replacement": {
+        "title": "# TF2 turret sound replacement",
+        "author": "DeltaC7",
+        "last_updated": "2024-10-15",
+        "media": {
+            "preview": "",
+            "video": "TF2 turret sound replacement.mp4"
+        },
+        "descriptions": {
+            "en": "This mod replaces the turret sounds to sound like the ones from TeamFortress 2.",
+            "ru": "Этот мод заменяет звуки турелей на звуки из Team Fortress 2"
+        }
+    },
+    "That Guided Owl That I Hate": {
+        "title": "# That Guided Owl That I Hate",
+        "author": "Laglini",
+        "last_updated": "2024-10-05",
+        "media": {
+            "preview": "",
+            "video": "That Guided Owl That I Hate.mp4"
+        },
+        "descriptions": {
+            "en": "low effort meme mod",
+            "ru": "Простой мем-мод"
+        }
+    },
+    "The Silly Killsounds": {
+        "title": "# The Silly Killsounds",
+        "author": "Funee",
+        "last_updated": "2024-11-13",
+        "media": {
+            "preview": "",
+            "video": "The Silly Killsounds.mp4"
+        },
+        "descriptions": {
+            "en": "Playes the funny random sounds when you kill someone",
+            "ru": "Проигрывает забавные случайные звуки при убийстве"
+        }
+    },
+    "Turrets from Portal": {
+        "title": "# Turrets from Portal",
+        "author": "Community",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "turrets_from_portal.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Vindicta Bikinidicta Full mod": {
+        "title": "# Vindicta Bikinidicta Full mod",
+        "author": "kellermax",
+        "last_updated": "2024-11-12",
+        "media": {
+            "preview": "Vindicta Bikinidicta.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Dresses Vindicta in the Bikini",
+            "ru": "Одевает Vindicta в бикини"
+        }
+    },
+    "Vindicta Bikinidicta No 2 skill music": {
+        "title": "# Vindicta Bikinidicta No 2 skill music",
+        "author": "kellermax",
+        "last_updated": "2024-11-12",
+        "media": {
+            "preview": "vindicta_bikinidicta_no_2_skill.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Mod variation without 2 skill music",
+            "ru": "Вариант мода без музыкального сопровождения второй способности"
+        }
+    },
+    "Vindicta Bikinidicta No sounds": {
+        "title": "# Vindicta Bikinidicta No sounds",
+        "author": "kellermax",
+        "last_updated": "2024-11-12",
+        "media": {
+            "preview": "vindicta_bikinidicta_no_sounds.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Mod variation without custom sounds, only skin",
+            "ru": "Вариант мода без пользовательских звуков, только облик"
+        }
+    },
+    "Vindicta Black+White": {
+        "title": "# Vindicta Black+White",
+        "author": "TheEloThief",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "vindicta_black_white.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Vindicta Ivydicta": {
+        "title": "# Vindicta Ivydicta",
+        "author": "thekekman",
+        "last_updated": "2024-11-30",
+        "media": {
+            "preview": "Vindicta Ivydicta.jpg",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Mix Vindicta with Ivy",
+            "ru": "Смешивает Vindicta с Ivy"
+        }
+    },
+    "Vindicta Sandals": {
+        "title": "# Vindicta Sandals",
+        "author": "Index",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "vindicta_sandals.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Vindicta Shoes": {
+        "title": "# Vindicta Shoes",
+        "author": "index.7",
+        "last_updated": "2024-11-14",
+        "media": {
+            "preview": "vindicta_shoes.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "This will put an end to the vindicta feet posters.",
+            "ru": "Это положит конец постерам с ногами Vindicta"
+        }
+    },
+    "Vindicta Widowmaker": {
+        "title": "# Vindicta Widowmaker",
+        "author": "BanzaFahra",
+        "last_updated": "2024-11-30",
+        "media": {
+            "preview": "Vindicta Widowmaker.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Turn Vindicta into Widowmaker from Overwatch",
+            "ru": "Превращает Vindicta в Widowmaker из Overwatch"
+        }
+    },
+    "Viper makes viper sounds": {
+        "title": "# Viper makes viper sounds",
+        "author": "taskimaiden",
+        "last_updated": "2024-11-14",
+        "media": {
+            "preview": "",
+            "video": "Viper makes viper sounds.mp4"
+        },
+        "descriptions": {
+            "en": "Makes viper use a dragging sound and occasionally hiss instead of using vindicta's footsteps",
+            "ru": "Заменяет шаги Vindicta на звуки скольжения и периодическое шипение Viper"
+        }
+    },
+    "Viper snake": {
+        "title": "# Viper snake",
+        "author": "uglycoal",
+        "last_updated": "2024-11-13",
+        "media": {
+            "preview": "viper_snake.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "This skin turns Viper into something close to how some people were portraying her fan redesign",
+            "ru": "Этот скин делает Viper похожим на её фанатские редизайны"
+        }
+    },
+    "Viscous Cumcous": {
+        "title": "# Viscous Cumcous",
+        "author": "DrasticElevation",
+        "last_updated": "2024-10-11",
+        "media": {
+            "preview": "viscous_cumcous.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Makes Viscous white",
+            "ru": "Делает Viscous белым"
+        }
+    },
+    "Viscous Glorp": {
+        "title": "# Viscous Glorp",
+        "author": "index.7",
+        "last_updated": "2024-11-04",
+        "media": {
+            "preview": "viscous_glorp.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Makes Viscous head look like glorp",
+            "ru": "Делает голову Viscous похожим на Glorp"
+        }
+    },
+    "Viscous Halloween": {
+        "title": "# Viscous Halloween",
+        "author": "Ahzelion",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "viscous_halloween.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Viscous Pink": {
+        "title": "# Viscous Pink",
+        "author": "abysswatchre",
+        "last_updated": "2024-11-22",
+        "media": {
+            "preview": "viscous_pink.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Makes Viscous pink",
+            "ru": "Делает Viscous розовым"
+        }
+    },
+    "Viscous Raspberry": {
+        "title": "# Viscous Raspberry",
+        "author": "the_mrsir",
+        "last_updated": "2024-11-21",
+        "media": {
+            "preview": "Viscous Raspberry.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Colors Viscous into a blue color",
+            "ru": "Окрашивает Viscous в синий цвет"
+        }
+    },
+    "Viscous Viscoast": {
+        "title": "# Viscous Viscoast",
+        "author": "albertthinkernoodle",
+        "last_updated": "2024-11-12",
+        "media": {
+            "preview": "Viscous Viscoast.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Viscous got a bit jealous! So it decided to hit the beach as well!",
+            "ru": "Viscous немного приревновал! Поэтому он тоже решил отправиться на пляж"
+        }
+    },
+    "Wraith Black+White": {
+        "title": "# Wraith Black+White",
+        "author": "TheEloThief",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "wraith_black_white.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Wraith Without cloak": {
+        "title": "# Wraith Without cloak",
+        "author": "shurochi",
+        "last_updated": "2024-11-20",
+        "media": {
+            "preview": "wraith_without_cloak.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Default Wraith without cloak",
+            "ru": "Обычный Wraith без плаща"
+        }
+    },
+    "Yamato 2B": {
+        "title": "# Yamato 2B",
+        "author": "fell.off.fuji",
+        "last_updated": "2024-11-21",
+        "media": {
+            "preview": "yamato_2b.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Turns Yamato into a 2B",
+            "ru": "Превращает Yamato в 2B"
+        }
+    },
+    "Yamato 2B without drawn sword": {
+        "title": "# Yamato 2B without drawn sword",
+        "author": "fell.off.fuji",
+        "last_updated": "2024-11-21",
+        "media": {
+            "preview": "yamato_2b_without_sword.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Mod variation without drawn sword",
+            "ru": "Вариант мода без вытянутого меча"
+        }
+    },
+    "Yamato 2B without drawn sword and skirt": {
+        "title": "# Yamato 2B without drawn sword and skirt",
+        "author": "fell.off.fuji",
+        "last_updated": "2024-11-21",
+        "media": {
+            "preview": "yamato_2b_without_sword_skirt.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Mod variation without drawn sword and skirt",
+            "ru": "Вариант мода без вытянутого меча и юбки"
+        }
+    },
+    "Yamato 2B without skirt": {
+        "title": "# Yamato 2B without skirt",
+        "author": "fell.off.fuji",
+        "last_updated": "2024-11-21",
+        "media": {
+            "preview": "yamato_2b_without_skirt.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Mod variation without skirt",
+            "ru": "Вариант мода без юбки"
+        }
+    },
+    "Yamato Mytrato": {
+        "title": "# Yamato Mytrato",
+        "author": "pyralasis",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "yamato_mytrato.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "Yamato NeonPrime": {
+        "title": "# Yamato NeonPrime",
+        "author": "taskimaiden",
+        "last_updated": "2024-11-08",
+        "media": {
+            "preview": "yamato_neon_prime.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "This mod changes Yamato's textures to be the ones still left over in her v1 folder, making it look more accurate to her portraits",
+            "ru": "Этот мод меняет текстуры Yamato на те, что остались в папке v1, делая её внешний вид ближе к портретам"
+        }
+    },
+    "Yamato Raiden": {
+        "title": "# Yamato Raiden",
+        "author": "Grelgn",
+        "last_updated": "2024-12-01",
+        "media": {
+            "preview": "Yamato Raiden.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Turns Yamato into Raiden from MGSR",
+            "ru": "Превращает Yamato в Raiden из Metal Gear Rising"
+        }
+    },
+    "Yamato Ult Demonic Voice Filter": {
+        "title": "# Yamato Ult Demonic Voice Filter",
+        "author": "monstobusta",
+        "last_updated": "2024-11-14",
+        "media": {
+            "preview": "",
+            "video": "Yamato Ult Demonic Voice Filter.mp4"
+        },
+        "descriptions": {
+            "en": "Her ult gets a demon voice. That's it.",
+            "ru": "Ультимативная способность Yamato получает демонический голос"
+        }
+    },
+    "Yamato Vergil": {
+        "title": "# Yamato Vergil",
+        "author": "Grelgn",
+        "last_updated": "2024-11-12",
+        "media": {
+            "preview": "Yamato Raiden.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Turns Yamato into Vergil from Devil May Cry 3, featuring custom sound effects and cloth physics.",
+            "ru": "Превращает Yamato в Vergil из Devil May Cry 3, включая особые звуковые эффекты и физику одежды"
+        }
+    },
+    "awp sound ult": {
+        "title": "# awp sound ult",
+        "author": "MrTerere",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "",
+            "video": "awp sound ult.mp4"
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "da purpla": {
+        "title": "# da purpla",
+        "author": "taskimaiden",
+        "last_updated": "2024-11-01",
+        "media": {
+            "preview": "",
+            "video": "da purpla.mp4"
+        },
+        "descriptions": {
+            "en": "Quick mod I made that makes dynamo's weapon use pestilence's weapon tracers",
+            "ru": "Быстрый мод, который я сделал, чтобы оружие Dynamo использовало следы оружия Pestilence"
+        }
+    },
+    "deer's post processing": {
+        "title": "# deer's post processing",
+        "author": "Community",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "deer's post processing.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "just an owl drone": {
+        "title": "# GrayTalon",
+        "author": "thekekman",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "just_an_owl_drone.png.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "lamarrite_s post processing": {
+        "title": "# lamarrite_s post processing",
+        "author": "lamarrite",
+        "last_updated": "2024-10-18",
+        "media": {
+            "preview": "lamarrite_post_processing.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    },
+    "old minimap icons": {
+        "title": "# old minimap icons",
+        "author": "cakeeh",
+        "last_updated": "2024-09-13",
+        "media": {
+            "preview": "old minimap icons.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Returns the old minimap icons",
+            "ru": "Возвращает старые иконки на миникарте"
+        }
+    },
+    "robo's Deadlock Portraits": {
+        "title": "# robo's Deadlock Portraits",
+        "author": "robothegod",
+        "last_updated": "2024-10-31",
+        "media": {
+            "preview": "robo's Deadlock Portraits.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "Splendid mod that replaces character hud assets with special character art by robothegod",
+            "ru": "Прекрасный мод, заменяющий элементы интерфейса персонажей на специальные арты от robothegod"
+        }
+    },
+    "svoi talon": {
+        "title": "# GrayTalon",
+        "author": "thekekman",
+        "last_updated": "2024-03-21",
+        "media": {
+            "preview": "graytalon.png",
+            "video": null
+        },
+        "descriptions": {
+            "en": "",
+            "ru": ""
+        }
+    }
+}
