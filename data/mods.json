@@ -3699,6 +3699,32 @@
         "local_path": "sounds\\The Silly Killsounds.vpk"
       },
       "version": "1.0"
+    },
+    
+    "148": {
+      "id": "shiv_yokai",
+      "title": "Skiv Yokai",
+      "category": "heroes",
+      "hero": "shiv",
+      "type": "skins",
+      "author": "Wootson",
+      "last_updated": "2024-12-05",
+      "media": {
+        "preview": "Skiv Yokai.png",
+        "video": ""
+      },
+      "descriptions": {
+        "ru": "Что-то вроде восточного кибер-ниндзя в маске демона",
+        "en": "Something-something eastern cyber ninja with demon mask"
+      },
+      "file": {
+        "name": "Shiv Yokai.vpk",
+        "size": 0,
+        "hash": "",
+        "drive_id": "https://drive.google.com/file/d/1qZBayhWQKMaEci2i1U7VirL9QH3AAfaU/view?usp=sharing",
+        "local_path": ""
+      },
+      "version": "1.0"
     }
   }
 }
